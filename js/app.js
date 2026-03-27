@@ -428,6 +428,41 @@
     return pill;
   }
 
+  function createDayCell(cellDate, options = {}) {
+    const { inRange = false, features = null, todayString = '', adjacentMonth = false } = options;
+    const dateString = formatDate(cellDate);
+
+    const cell = document.createElement('div');
+    cell.className = 'day-cell';
+
+    if (adjacentMonth) {
+      cell.classList.add('adjacent-month', 'out-of-range');
+    } else if (!inRange) {
+      cell.classList.add('out-of-range');
+    }
+
+    if (!adjacentMonth && features && features.length > 0) cell.classList.add('has-releases');
+    if (!adjacentMonth && inRange && dateString === todayString) cell.classList.add('today');
+
+    const number = document.createElement('div');
+    number.className = 'day-number';
+    number.textContent = cellDate.getDate();
+    cell.appendChild(number);
+
+    if (!adjacentMonth && features && features.length > 0) {
+      const list = document.createElement('div');
+      list.className = 'features-list';
+
+      for (const feature of features) {
+        list.appendChild(createFeaturePill(feature));
+      }
+
+      cell.appendChild(list);
+    }
+
+    return cell;
+  }
+
   function renderCalendar() {
     const lookup = buildReleaseLookup(state.data.releases, state.range.start, state.range.end);
     const months = getMonthRange(state.range.start, state.range.end);
@@ -460,42 +495,29 @@
       const firstDay = new Date(year, month, 1);
       const totalDays = daysInMonth(year, month);
       const startPad = isoWeekday(firstDay);
+      const previousMonth = addMonths(firstDay, -1);
+      const previousMonthTotalDays = daysInMonth(previousMonth.getFullYear(), previousMonth.getMonth());
 
       for (let i = 0; i < startPad; i++) {
-        const empty = document.createElement('div');
-        empty.className = 'day-cell empty';
-        grid.appendChild(empty);
+        const dayNumber = previousMonthTotalDays - startPad + i + 1;
+        const cellDate = new Date(previousMonth.getFullYear(), previousMonth.getMonth(), dayNumber);
+        grid.appendChild(createDayCell(cellDate, { todayString, adjacentMonth: true }));
       }
 
       for (let day = 1; day <= totalDays; day++) {
         const cellDate = new Date(year, month, day);
-        const dateString = formatDate(cellDate);
         const inRange = isWithinRange(cellDate, state.range.start, state.range.end);
-        const features = inRange ? lookup.get(dateString) : null;
+        const features = inRange ? lookup.get(formatDate(cellDate)) : null;
+        grid.appendChild(createDayCell(cellDate, { inRange, features, todayString }));
+      }
 
-        const cell = document.createElement('div');
-        cell.className = 'day-cell';
-        if (!inRange) cell.classList.add('out-of-range');
-        if (features && features.length > 0) cell.classList.add('has-releases');
-        if (inRange && dateString === todayString) cell.classList.add('today');
+      const totalCells = startPad + totalDays;
+      const endPad = (7 - (totalCells % 7)) % 7;
+      const nextMonth = addMonths(firstDay, 1);
 
-        const number = document.createElement('div');
-        number.className = 'day-number';
-        number.textContent = day;
-        cell.appendChild(number);
-
-        if (features && features.length > 0) {
-          const list = document.createElement('div');
-          list.className = 'features-list';
-
-          for (const feature of features) {
-            list.appendChild(createFeaturePill(feature));
-          }
-
-          cell.appendChild(list);
-        }
-
-        grid.appendChild(cell);
+      for (let day = 1; day <= endPad; day++) {
+        const cellDate = new Date(nextMonth.getFullYear(), nextMonth.getMonth(), day);
+        grid.appendChild(createDayCell(cellDate, { todayString, adjacentMonth: true }));
       }
 
       block.appendChild(grid);

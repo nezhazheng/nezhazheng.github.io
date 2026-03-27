@@ -27,7 +27,7 @@
 }
 
 html {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 body {
@@ -56,7 +56,7 @@ header {
   justify-content: center;
   gap: 0.5rem;
   margin-bottom: 1rem;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   letter-spacing: 0.15em;
   color: var(--text-secondary);
 }
@@ -67,7 +67,7 @@ header {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 0.5rem;
@@ -84,7 +84,7 @@ h1 .highlight {
 
 .subtitle {
   color: var(--text-secondary);
-  font-size: 1rem;
+  font-size: 1.05rem;
 }
 
 /* === Tracked People === */
@@ -152,13 +152,13 @@ h1 .highlight {
 }
 
 .person-name {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--text-primary);
 }
 
 .person-handle {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--text-secondary);
 }
 
@@ -217,7 +217,7 @@ h1 .highlight {
 }
 
 .month-nav-label {
-  font-size: 1rem;
+  font-size: 1.08rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   color: var(--text-primary);
@@ -225,7 +225,7 @@ h1 .highlight {
 }
 
 .month-nav-caption {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--text-secondary);
 }
 
@@ -243,7 +243,7 @@ h1 .highlight {
 }
 
 .range-field span {
-  font-size: 0.7rem;
+  font-size: 0.74rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   color: var(--text-secondary);
@@ -268,7 +268,7 @@ h1 .highlight {
 
 .range-reset {
   padding: 0.7rem 1rem;
-  font-size: 0.8rem;
+  font-size: 0.84rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -286,7 +286,7 @@ h1 .highlight {
 }
 
 .month-label {
-  font-size: 1.1rem;
+  font-size: 1.18rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   color: var(--copper);
@@ -303,7 +303,7 @@ h1 .highlight {
 
 .weekday-header span {
   text-align: center;
-  font-size: 0.7rem;
+  font-size: 0.74rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   color: var(--text-muted);
@@ -321,8 +321,8 @@ h1 .highlight {
 .day-cell {
   background: var(--bg-surface);
   border-radius: 6px;
-  min-height: 90px;
-  padding: 0.4rem;
+  min-height: 98px;
+  padding: 0.45rem;
   position: relative;
   transition: background 0.15s;
 }
@@ -339,18 +339,22 @@ h1 .highlight {
   background: var(--bg-cell-hover);
 }
 
-.day-cell.empty {
-  background: transparent;
-  min-height: 0;
+.day-cell.out-of-range {
+  opacity: 0.48;
+  background: rgba(45, 33, 24, 0.58);
 }
 
-.day-cell.out-of-range {
-  opacity: 0.32;
-  background: rgba(45, 33, 24, 0.55);
+.day-cell.adjacent-month {
+  opacity: 0.62;
+  background: rgba(45, 33, 24, 0.44);
 }
 
 .day-cell.out-of-range:hover {
   background: rgba(45, 33, 24, 0.55);
+}
+
+.day-cell.adjacent-month:hover {
+  background: rgba(45, 33, 24, 0.44);
 }
 
 .day-cell.today {
@@ -359,7 +363,7 @@ h1 .highlight {
 }
 
 .day-number {
-  font-size: 0.85rem;
+  font-size: 0.92rem;
   font-weight: 700;
   color: var(--text-muted);
   margin-bottom: 0.25rem;
@@ -373,14 +377,14 @@ h1 .highlight {
 .features-list {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 3px;
 }
 
 .feature-pill {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 2px 4px;
+  gap: 7px;
+  padding: 2px 5px;
   border-radius: 999px;
   cursor: pointer;
   transition: background 0.1s;
@@ -408,8 +412,8 @@ h1 .highlight {
 
 .feature-avatar,
 .feature-avatar-fallback {
-  width: 16px;
-  height: 16px;
+  width: 17px;
+  height: 17px;
   border-radius: 50%;
   flex-shrink: 0;
 }
@@ -425,13 +429,13 @@ h1 .highlight {
   justify-content: center;
   background: var(--copper);
   color: var(--bg-primary);
-  font-size: 0.55rem;
+  font-size: 0.58rem;
   font-weight: 700;
 }
 
 .feature-name {
-  font-size: 0.65rem;
-  font-weight: 500;
+  font-size: 0.72rem;
+  font-weight: 550;
   color: var(--text-primary);
   white-space: nowrap;
   overflow: hidden;
@@ -454,7 +458,7 @@ h1 .highlight {
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 0.75rem 1rem;
-  font-size: 0.8rem;
+  font-size: 0.84rem;
   color: var(--text-primary);
   max-width: 280px;
   z-index: 1000;
@@ -472,7 +476,7 @@ h1 .highlight {
 }
 
 .tooltip-meta {
-  font-size: 0.7rem;
+  font-size: 0.74rem;
   color: var(--text-secondary);
 }
 
@@ -490,14 +494,14 @@ h1 .highlight {
 }
 
 .stat-value {
-  font-size: 1.8rem;
+  font-size: 1.95rem;
   font-weight: 800;
   color: var(--copper-light);
   line-height: 1;
 }
 
 .stat-label {
-  font-size: 0.7rem;
+  font-size: 0.74rem;
   color: var(--text-secondary);
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -512,14 +516,14 @@ footer {
 }
 
 .attribution {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--text-muted);
   font-style: italic;
   margin-bottom: 0.5rem;
 }
 
 .source {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--text-secondary);
 }
 
@@ -545,7 +549,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 0.35rem;
-  font-size: 0.7rem;
+  font-size: 0.76rem;
   color: var(--text-secondary);
 }
 
@@ -558,7 +562,7 @@ footer {
 /* === Responsive === */
 @media (max-width: 768px) {
   html {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   h1 {
@@ -611,12 +615,12 @@ footer {
   }
 
   .day-cell {
-    min-height: 70px;
+    min-height: 78px;
     padding: 0.25rem;
   }
 
   .feature-name {
-    font-size: 0.55rem;
+    font-size: 0.6rem;
   }
 
   .stats-bar {
@@ -647,7 +651,7 @@ footer {
   }
 
   .day-cell {
-    min-height: 55px;
+    min-height: 60px;
   }
 
   .feature-pill {
@@ -667,6 +671,6 @@ footer {
   }
 
   .feature-name {
-    font-size: 0.5rem;
+    font-size: 0.56rem;
   }
 }
