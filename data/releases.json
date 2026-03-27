@@ -1,269 +1,315 @@
 {
   "meta": {
     "startDate": "2026-02-01",
-    "lastUpdated": "2026-03-27T00:00:00Z",
+    "lastUpdated": "2026-03-27T15:08:36Z",
     "trackedAccounts": [
-      {"name": "Boris Cherny", "handle": "bcherny"},
-      {"name": "Thariq Shihipar", "handle": "trq212"},
-      {"name": "Noah Zweben", "handle": "noahzweben"},
-      {"name": "Felix Rieseberg", "handle": "felixrieseberg"},
-      {"name": "Lydia Hallie", "handle": "lydiahallie"},
-      {"name": "Anthony Morris", "handle": "amorriscode"},
-      {"name": "Adam Feldman", "handle": "feldman"},
-      {"name": "Dickson Tsai", "handle": "dickson_tsai"},
-      {"name": "Daisy Hollman", "handle": "The_Whole_Daisy"},
-      {"name": "Official", "handle": "claudeai"}
+      {
+        "name": "Boris Cherny",
+        "handle": "bcherny"
+      },
+      {
+        "name": "Thariq Shihipar",
+        "handle": "trq212"
+      },
+      {
+        "name": "Noah Zweben",
+        "handle": "noahzweben"
+      },
+      {
+        "name": "Felix Rieseberg",
+        "handle": "felixrieseberg"
+      },
+      {
+        "name": "Lydia Hallie",
+        "handle": "lydiahallie"
+      },
+      {
+        "name": "Anthony Morris",
+        "handle": "amorriscode"
+      },
+      {
+        "name": "Adam Feldman",
+        "handle": "feldman"
+      },
+      {
+        "name": "Dickson Tsai",
+        "handle": "dickson_tsai"
+      },
+      {
+        "name": "Daisy Hollman",
+        "handle": "The_Whole_Daisy"
+      },
+      {
+        "name": "Official",
+        "handle": "claudeai"
+      }
     ]
   },
   "releases": [
     {
       "date": "2026-02-03",
       "features": [
-        {"name": "CC Session Sharing", "icon": "🔗", "category": "claude-code"},
-        {"name": "Chrome + VSCode Ext", "icon": "🧩", "category": "claude-code"}
+        {
+          "name": "CC Session Sharing",
+          "icon": "🔗",
+          "category": "claude-code",
+          "announcer": "dickson_tsai",
+          "tweetUrl": "https://x.com/dickson_tsai/status/2018741109456011768"
+        },
+        {
+          "name": "CC Web Handoff",
+          "icon": "🌐",
+          "category": "claude-code",
+          "announcer": "dickson_tsai",
+          "tweetUrl": "https://x.com/dickson_tsai/status/2018741109456011768"
+        }
       ]
     },
     {
       "date": "2026-02-04",
       "features": [
-        {"name": "Slack MCP on Paid", "icon": "💬", "category": "claude-ai"},
-        {"name": "GSuite Connectors", "icon": "🔌", "category": "claude-ai"},
-        {"name": "CC /insights", "icon": "📊", "category": "claude-code"},
-        {"name": "Opus 4.6 Launch", "icon": "🚀", "category": "api"}
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "features": [
-        {"name": "Agent Teams", "icon": "👥", "category": "claude-ai"},
-        {"name": "/debug Skill", "icon": "🐛", "category": "claude-code"},
-        {"name": "Opus 4.6", "icon": "🧠", "category": "api"}
+        {
+          "name": "/debug Skill",
+          "icon": "🐛",
+          "category": "claude-code",
+          "announcer": "dickson_tsai",
+          "tweetUrl": "https://x.com/dickson_tsai/status/2019314348632555651"
+        }
       ]
     },
     {
       "date": "2026-02-06",
       "features": [
-        {"name": "CC /rewind", "icon": "⏪", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-07",
-      "features": [
-        {"name": "CC Fast Mode", "icon": "⚡", "category": "claude-code"},
-        {"name": "Fast Opus 4.6", "icon": "🚀", "category": "api"}
-      ]
-    },
-    {
-      "date": "2026-02-10",
-      "features": [
-        {"name": "Cowork for Windows", "icon": "🪟", "category": "claude-code"},
-        {"name": "Skip Permissions", "icon": "🔓", "category": "claude-code"},
-        {"name": "CC Contribution Metrics", "icon": "📈", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "features": [
-        {"name": "Cowork Folder Instructions", "icon": "📁", "category": "claude-code"},
-        {"name": "Slack App (Plan)", "icon": "💬", "category": "claude-ai"},
-        {"name": "CC Desktop Plugins", "icon": "🧩", "category": "desktop"},
-        {"name": "Free Plan Expansion", "icon": "🆓", "category": "claude-ai"}
-      ]
-    },
-    {
-      "date": "2026-02-12",
-      "features": [
-        {"name": "CC Multi-Repo", "icon": "📦", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-13",
-      "features": [
-        {"name": "CC SSH Support", "icon": "🔑", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-17",
-      "features": [
-        {"name": "Sonnet 4.6", "icon": "🧠", "category": "api"},
-        {"name": "Sonnet 4.6 in CC", "icon": "🧠", "category": "claude-code"},
-        {"name": "Figma MCP", "icon": "🎨", "category": "claude-ai"}
-      ]
-    },
-    {
-      "date": "2026-02-19",
-      "features": [
-        {"name": "Claude in PowerPoint", "icon": "📊", "category": "claude-ai"}
-      ]
-    },
-    {
-      "date": "2026-02-20",
-      "features": [
-        {"name": "CC Security", "icon": "🔒", "category": "claude-code"},
-        {"name": "CC Desktop Preview", "icon": "🖥️", "category": "desktop"},
-        {"name": "CC Worktrees", "icon": "🌳", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-24",
-      "features": [
-        {"name": "Remote Control", "icon": "🎮", "category": "claude-code"},
-        {"name": "Enterprise Customize + Marketplaces", "icon": "🏢", "category": "claude-ai"}
-      ]
-    },
-    {
-      "date": "2026-02-25",
-      "features": [
-        {"name": "Scheduled Tasks (Cowork)", "icon": "⏰", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-02-26",
-      "features": [
-        {"name": "Auto-Memory", "icon": "🧠", "category": "claude-code"},
-        {"name": "Claude for OSS", "icon": "🌐", "category": "claude-ai"}
-      ]
-    },
-    {
-      "date": "2026-02-28",
-      "features": [
-        {"name": "CC /simplify + /batch", "icon": "✨", "category": "claude-code"},
-        {"name": "AskUser Snippets", "icon": "💬", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-02",
-      "features": [
-        {"name": "Memory on Free Plan", "icon": "🧠", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-03",
-      "features": [
-        {"name": "Voice Mode", "icon": "🎤", "category": "claude-ai"}
+        {
+          "name": "Agent Teams",
+          "icon": "👥",
+          "category": "claude-code",
+          "announcer": "The_Whole_Daisy",
+          "tweetUrl": "https://x.com/The_Whole_Daisy/status/2019882415242776888"
+        }
       ]
     },
     {
       "date": "2026-03-04",
       "features": [
-        {"name": "HTTP Hooks", "icon": "🪝", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-06",
-      "features": [
-        {"name": "Enterprise Marketplace", "icon": "🏪", "category": "claude-ai"},
-        {"name": "Local Sched Tasks", "icon": "📅", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-07",
-      "features": [
-        {"name": "CC /loop (3-day)", "icon": "🔄", "category": "claude-code"},
-        {"name": "CC Auto Mode", "icon": "🤖", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "features": [
-        {"name": "CC Code Review", "icon": "👀", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-10",
-      "features": [
-        {"name": "CC /btw + /effort", "icon": "💡", "category": "claude-code"}
+        {
+          "name": "HTTP Hooks",
+          "icon": "🪝",
+          "category": "claude-code",
+          "announcer": "dickson_tsai",
+          "tweetUrl": "https://x.com/dickson_tsai/status/2029235808235078095"
+        }
       ]
     },
     {
       "date": "2026-03-11",
       "features": [
-        {"name": "Excel + PPT Sync", "icon": "📊", "category": "claude-ai"}
+        {
+          "name": "Excel + PowerPoint Add-ins",
+          "icon": "📊",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2031790757456331084"
+        },
+        {
+          "name": "Skills in Add-ins",
+          "icon": "🧠",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2031790756156096881"
+        }
       ]
     },
     {
       "date": "2026-03-12",
       "features": [
-        {"name": "Rich Text Output", "icon": "📝", "category": "claude-code"},
-        {"name": "Voice Mode Desktop", "icon": "🎤", "category": "desktop"},
-        {"name": "Setup Scripts", "icon": "⚙️", "category": "claude-code"}
+        {
+          "name": "Interactive Charts + Diagrams",
+          "icon": "📈",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2032124273587077133"
+        },
+        {
+          "name": "Adaptive Response Formats",
+          "icon": "✨",
+          "category": "claude-ai",
+          "announcer": "feldman",
+          "tweetUrl": "https://x.com/feldman/status/2032137366358401484"
+        }
       ]
     },
     {
       "date": "2026-03-13",
       "features": [
-        {"name": "Opus 1M in CC", "icon": "🧠", "category": "claude-code"},
-        {"name": "Session Spawning", "icon": "🔀", "category": "claude-code"},
-        {"name": "CC Review Manual Trigger", "icon": "👀", "category": "claude-code"},
-        {"name": "1M Context Window GA", "icon": "📏", "category": "api"},
-        {"name": "CC /color Command", "icon": "🎨", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-14",
-      "features": [
-        {"name": "2x Usage Promo", "icon": "📣", "category": "claude-ai"},
-        {"name": "CC MCP Elicitation", "icon": "🔌", "category": "claude-code"}
+        {
+          "name": "1M Context Window GA",
+          "icon": "📏",
+          "category": "api",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2032509548297343196"
+        },
+        {
+          "name": "1M Context in Claude Code",
+          "icon": "🧠",
+          "category": "claude-code",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2032512204189405320"
+        },
+        {
+          "name": "600-Page Media Limit",
+          "icon": "🖼️",
+          "category": "api",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2032509550239297864"
+        }
       ]
     },
     {
       "date": "2026-03-17",
       "features": [
-        {"name": "Dispatch", "icon": "📨", "category": "claude-ai"},
-        {"name": "Opus 1M Desktop", "icon": "🧠", "category": "desktop"},
-        {"name": "CC Output Token Limits 64K", "icon": "📏", "category": "claude-code"}
+        {
+          "name": "Dispatch",
+          "icon": "📨",
+          "category": "claude-ai",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2034005745822540201"
+        }
       ]
     },
     {
       "date": "2026-03-18",
       "features": [
-        {"name": "Dispatch + Code", "icon": "📨", "category": "claude-code"},
-        {"name": "Shell in SKILL.md", "icon": "🐚", "category": "claude-code"}
+        {
+          "name": "Dispatch + Code",
+          "icon": "📨",
+          "category": "claude-code",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2034381385134399913"
+        },
+        {
+          "name": "Shell in SKILL.md",
+          "icon": "🐚",
+          "category": "claude-code",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2034337963820327017"
+        }
       ]
     },
     {
       "date": "2026-03-19",
       "features": [
-        {"name": "Speed Boost", "icon": "⚡", "category": "claude-code"},
-        {"name": "CC VSCode Remote", "icon": "🔌", "category": "claude-code"},
-        {"name": "CC Channels", "icon": "📢", "category": "claude-code"},
-        {"name": "CC Skills over Remote Control", "icon": "🎮", "category": "claude-code"}
+        {
+          "name": "Speed Boost",
+          "icon": "⚡",
+          "category": "claude-ai",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2034688574239776778"
+        }
       ]
     },
     {
       "date": "2026-03-20",
       "features": [
-        {"name": "Cloud Tasks", "icon": "☁️", "category": "claude-ai"},
-        {"name": "Projects in Cowork", "icon": "📁", "category": "claude-code"},
-        {"name": "DOM Selection", "icon": "🖱️", "category": "claude-ai"}
+        {
+          "name": "Projects in Cowork",
+          "icon": "📁",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2035025492617961704"
+        },
+        {
+          "name": "DOM Selection",
+          "icon": "🖱️",
+          "category": "claude-code",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2035088515332284651"
+        },
+        {
+          "name": "Cloud Tasks on Web",
+          "icon": "☁️",
+          "category": "claude-code",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2035126942366867785"
+        }
       ]
     },
     {
       "date": "2026-03-21",
       "features": [
-        {"name": "Effort in Skills", "icon": "💪", "category": "claude-code"}
-      ]
-    },
-    {
-      "date": "2026-03-22",
-      "features": [
-        {"name": "CC /loop 7 Days", "icon": "🔄", "category": "claude-code"},
-        {"name": "CC /init v2", "icon": "🚀", "category": "claude-code"}
+        {
+          "name": "Effort in Skills",
+          "icon": "💪",
+          "category": "claude-code",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2035426943777263751"
+        }
       ]
     },
     {
       "date": "2026-03-23",
       "features": [
-        {"name": "Computer Use", "icon": "🖥️", "category": "claude-ai"},
-        {"name": "CC /schedule Cloud", "icon": "☁️", "category": "claude-code"},
-        {"name": "CC Channels Permission", "icon": "🔒", "category": "claude-code"},
-        {"name": "Prompts", "icon": "📝", "category": "claude-ai"}
+        {
+          "name": "Computer Use",
+          "icon": "🖥️",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2036195789601374705"
+        },
+        {
+          "name": "Connected Apps First",
+          "icon": "🔌",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2036195792101212445"
+        },
+        {
+          "name": "CC /schedule Cloud",
+          "icon": "☁️",
+          "category": "claude-code",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2036129220959805859"
+        },
+        {
+          "name": "CC Channels Permission",
+          "icon": "🔒",
+          "category": "claude-code",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2036228890717462785"
+        },
+        {
+          "name": "CC Channels for Teams + Enterprise",
+          "icon": "🏢",
+          "category": "claude-code",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2036235916675793105"
+        }
       ]
     },
     {
       "date": "2026-03-24",
       "features": [
-        {"name": "CC Channels for Teams + Enterprise", "icon": "🏢", "category": "claude-code"}
+        {
+          "name": "Figma MCP",
+          "icon": "🎨",
+          "category": "claude-code",
+          "announcer": "trq212",
+          "tweetUrl": "https://x.com/trq212/status/2036442891346755787"
+        },
+        {
+          "name": "CC Auto Mode",
+          "icon": "🤖",
+          "category": "claude-code",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2036503582166393240"
+        },
+        {
+          "name": "Cowork for Windows on Arm",
+          "icon": "🪟",
+          "category": "desktop",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2036586477556252940"
+        }
       ]
     }
   ]
