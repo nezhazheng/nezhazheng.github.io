@@ -24,7 +24,48 @@
       </p>
     </header>
 
+    <section class="stats-bar" aria-label="Release stats">
+      <div class="stat-item">
+        <div class="stat-value" id="stat-releases">--</div>
+        <div class="stat-label">Releases</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" id="stat-days">--</div>
+        <div class="stat-label">Days</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" id="stat-active-days">--</div>
+        <div class="stat-label">Active Days</div>
+      </div>
+    </section>
+
     <section class="tracked-people" id="tracked-people">
+    </section>
+
+    <section class="calendar-toolbar" aria-label="Calendar controls">
+      <div class="month-nav">
+        <button class="month-nav-button" id="prev-month" type="button" aria-label="Show previous month">‹</button>
+        <div class="month-nav-copy">
+          <div class="month-nav-label" id="visible-month-label">--</div>
+          <div class="month-nav-caption" id="visible-month-caption">Monthly view</div>
+        </div>
+        <button class="month-nav-button" id="next-month" type="button" aria-label="Show next month">›</button>
+      </div>
+
+      <div class="range-controls">
+        <label class="range-field" for="start-date">
+          <span>Start</span>
+          <input type="date" id="start-date">
+        </label>
+        <label class="range-field" for="end-date">
+          <span>End</span>
+          <input type="date" id="end-date">
+        </label>
+        <button class="range-reset" id="current-month-button" type="button">This Month</button>
+      </div>
+    </section>
+
+    <section class="legend" id="legend" aria-label="Release categories">
     </section>
 
     <main class="calendar" id="calendar">
