@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ship Speed - Claude Team Release Calendar</title>
+  <meta name="description" content="Track everything Claude Team ships. A live calendar of Anthropic product releases.">
+  <meta property="og:title" content="Ship Speed - Claude Team Release Calendar">
+  <meta property="og:description" content="Track everything Claude Team ships. A live calendar of Anthropic product releases.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://shipspeed.cc">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <span class="brand-icon">✳</span>
+        <span class="brand-label">ANTHROPIC RELEASES</span>
+      </div>
+      <h1>Everything <span class="highlight">Claude Team</span> shipped in <span id="day-count">--</span> days</h1>
+      <p class="subtitle">
+        <span id="date-range"></span>. Product releases only.
+      </p>
+    </header>
+
+    <section class="tracked-people" id="tracked-people">
+    </section>
+
+    <main class="calendar" id="calendar">
+    </main>
+
+    <footer>
+      <p class="attribution">Attribution based on first X announcement. Data auto-updated hourly.</p>
+      <p class="source">
+        <a href="https://github.com/nezhazheng/nezhazheng.github.io" target="_blank">Source</a>
+        &middot; shipspeed.cc
+      </p>
+    </footer>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
