@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-01",
-    "lastUpdated": "2026-03-27T15:08:36Z",
+    "lastUpdated": "2026-03-27T16:02:25Z",
     "trackedAccounts": [
       {
         "name": "Boris Cherny",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-05",
       "features": [
         {
           "name": "/debug Skill",
@@ -212,6 +212,13 @@
       "date": "2026-03-20",
       "features": [
         {
+          "name": "Cloud Tasks",
+          "icon": "☁️",
+          "category": "claude-code",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2035126942366867785"
+        },
+        {
           "name": "Projects in Cowork",
           "icon": "📁",
           "category": "claude-ai",
@@ -224,13 +231,6 @@
           "category": "claude-code",
           "announcer": "lydiahallie",
           "tweetUrl": "https://x.com/lydiahallie/status/2035088515332284651"
-        },
-        {
-          "name": "Cloud Tasks on Web",
-          "icon": "☁️",
-          "category": "claude-code",
-          "announcer": "lydiahallie",
-          "tweetUrl": "https://x.com/lydiahallie/status/2035126942366867785"
         }
       ]
     },
@@ -257,6 +257,13 @@
           "tweetUrl": "https://x.com/claudeai/status/2036195789601374705"
         },
         {
+          "name": "Dispatch Pairing",
+          "icon": "📱",
+          "category": "claude-ai",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2036195795100123446"
+        },
+        {
           "name": "Connected Apps First",
           "icon": "🔌",
           "category": "claude-ai",
@@ -276,19 +283,19 @@
           "category": "claude-code",
           "announcer": "noahzweben",
           "tweetUrl": "https://x.com/noahzweben/status/2036228890717462785"
-        },
-        {
-          "name": "CC Channels for Teams + Enterprise",
-          "icon": "🏢",
-          "category": "claude-code",
-          "announcer": "noahzweben",
-          "tweetUrl": "https://x.com/noahzweben/status/2036235916675793105"
         }
       ]
     },
     {
       "date": "2026-03-24",
       "features": [
+        {
+          "name": "CC Channels for Teams + Enterprise",
+          "icon": "🏢",
+          "category": "claude-code",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2036235916675793105"
+        },
         {
           "name": "Figma MCP",
           "icon": "🎨",
