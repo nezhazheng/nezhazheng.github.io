@@ -36,9 +36,30 @@
   const nextMonthButton = document.getElementById('next-month');
   const currentMonthButton = document.getElementById('current-month-button');
 
-  async function loadData() {
-    const resp = await fetch('data/releases.json');
+  async function loadJson(path) {
+    const resp = await fetch(path);
+    if (!resp.ok) {
+      throw new Error(`Failed to load ${path}: HTTP ${resp.status}`);
+    }
     return resp.json();
+  }
+
+  async function loadData() {
+    const [releaseData, trackedAccounts] = await Promise.all([
+      loadJson('data/releases.json'),
+      loadJson('data/claude_team_tracked_accounts.json').catch(() => null)
+    ]);
+
+    const normalizedAccounts = Array.isArray(trackedAccounts)
+      ? trackedAccounts
+      : Array.isArray(trackedAccounts?.trackedAccounts)
+        ? trackedAccounts.trackedAccounts
+        : releaseData.meta?.trackedAccounts || [];
+
+    return {
+      ...releaseData,
+      trackedAccounts: normalizedAccounts
+    };
   }
 
   function normalizeDate(date) {
@@ -591,7 +612,7 @@
       state.data = data;
       state.bounds = computeBounds(data);
 
-      renderTrackedPeople(data.meta.trackedAccounts || []);
+      renderTrackedPeople(data.trackedAccounts || []);
       renderLegend();
       bindControls();
       setRangeToMonth(normalizeDate(new Date()));
