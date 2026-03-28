@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-03-28T06:52:01Z"
+    "lastUpdated": "2026-03-28T07:30:00Z"
   },
   "releases": [
     {
@@ -51,13 +51,6 @@
       "date": "2026-02-06",
       "features": [
         {
-          "name": "300M ChatGPT Users",
-          "icon": "👥",
-          "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2019822532795547807",
-          "announcer": "OpenAI"
-        },
-        {
           "name": "Codex Personalities",
           "icon": "🎭",
           "announcer": "embirico",
@@ -75,13 +68,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/sama/status/2020940847190356092",
           "announcer": "sama"
-        },
-        {
-          "name": "Ads Test in ChatGPT",
-          "icon": "📢",
-          "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2020936703763153010",
-          "announcer": "OpenAI"
         }
       ]
     },
@@ -108,13 +94,6 @@
       "date": "2026-02-12",
       "features": [
         {
-          "name": "GPT-5.3-Codex-Spark",
-          "icon": "⚡",
-          "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2024193883748651102",
-          "announcer": "OpenAI"
-        },
-        {
           "name": "Cerebras Partnership",
           "icon": "🤝",
           "category": "other",
@@ -132,25 +111,6 @@
           "announcer": "embirico",
           "tweetUrl": "https://x.com/embirico/status/2022378682749456870",
           "category": "codex"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-15",
-      "features": [
-        {
-          "name": "@steipete Joins OpenAI",
-          "icon": "👋",
-          "category": "other",
-          "tweetUrl": "https://x.com/steipete/status/2027498705771757975",
-          "announcer": "steipete"
-        },
-        {
-          "name": "Personal AI Future",
-          "icon": "🔮",
-          "category": "other",
-          "tweetUrl": "https://x.com/sama/status/2027087128514183553",
-          "announcer": "sama"
         }
       ]
     },
@@ -255,18 +215,6 @@
       ]
     },
     {
-      "date": "2026-03-09",
-      "features": [
-        {
-          "name": "Acquiring Promptfoo",
-          "icon": "🏢",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAI/status/2035348283980398906",
-          "announcer": "OpenAI"
-        }
-      ]
-    },
-    {
       "date": "2026-03-12",
       "features": [
         {
@@ -308,13 +256,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2032884374233035079",
           "announcer": "OpenAIDevs"
-        },
-        {
-          "name": "Meetups in 20+ Cities",
-          "icon": "🏙️",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2032884386052583655",
-          "announcer": "OpenAIDevs"
         }
       ]
     },
@@ -346,30 +287,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/OpenAI/status/2033953592424731072",
           "announcer": "OpenAI"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-18",
-      "features": [
-        {
-          "name": "OSS Applications Open",
-          "icon": "🌐",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2034315278964998407",
-          "announcer": "OpenAIDevs"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-19",
-      "features": [
-        {
-          "name": "India Expansion",
-          "icon": "🇮🇳",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2034600898912272501",
-          "announcer": "OpenAIDevs"
         }
       ]
     },
@@ -420,25 +337,6 @@
           "category": "chatgpt",
           "tweetUrl": "https://x.com/OpenAI/status/2036183180219392103",
           "announcer": "OpenAI"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-25",
-      "features": [
-        {
-          "name": "Codex Creator Challenge",
-          "icon": "🏆",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
-          "announcer": "OpenAIDevs"
-        },
-        {
-          "name": "$10K API Credits Prize",
-          "icon": "💰",
-          "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
-          "announcer": "OpenAIDevs"
         }
       ]
     },

@@ -137,6 +137,14 @@ body.theme-openai .tooltip {
   flex-shrink: 0;
 }
 
+body.theme-openai .team-tab[data-team="claude"]:not(.active) .team-logo {
+  color: #c47a5a;
+}
+
+body.theme-openai .team-tab[data-team="claude"]:not(.active):hover .team-logo {
+  color: #e8a87c;
+}
+
 .team-tab:focus-visible {
   outline: 2px solid var(--copper);
   outline-offset: 2px;
