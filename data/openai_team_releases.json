@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-03-28T06:31:37.453Z"
+    "lastUpdated": "2026-03-28T06:52:01Z"
   },
   "releases": [
     {
@@ -17,16 +17,12 @@
         {
           "name": "500K Downloads Day 1",
           "icon": "📈",
-          "category": "codex",
-          "tweetUrl": "https://x.com/OpenAI/status/2019173348132188330",
-          "announcer": "OpenAI"
+          "category": "codex"
         },
         {
           "name": "Codex in GitHub AgentHQ",
           "icon": "🔗",
-          "category": "codex",
-          "tweetUrl": "https://x.com/embirico/status/2018775525200924955",
-          "announcer": "embirico"
+          "category": "codex"
         }
       ]
     },
@@ -37,7 +33,7 @@
           "name": "Codex in Xcode 26.3",
           "icon": "🍎",
           "category": "codex",
-          "tweetUrl": "https://x.com/embirico/status/2018945236102516898",
+          "tweetUrl": "https://x.com/embirico/status/2018859528020979755",
           "announcer": "embirico"
         },
         {
@@ -53,9 +49,7 @@
         {
           "name": "Codex in VS Code",
           "icon": "💻",
-          "category": "codex",
-          "tweetUrl": "https://x.com/sama/status/2020940847190356092",
-          "announcer": "sama"
+          "category": "codex"
         },
         {
           "name": "Agent HQ Beta",
@@ -71,22 +65,20 @@
           "name": "GPT-5.3-Codex Launch",
           "icon": "🧠",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2019488072912839111",
+          "tweetUrl": "https://x.com/OpenAI/status/2019474152743223477",
           "announcer": "OpenAI"
         },
         {
           "name": "New SOTA on SWE-bench",
           "icon": "🏆",
           "category": "api",
-          "tweetUrl": "https://x.com/embirico/status/2019480346170175883",
+          "tweetUrl": "https://x.com/embirico/status/2019478580280103216",
           "announcer": "embirico"
         },
         {
           "name": "All Paid Plans",
           "icon": "💳",
-          "category": "chatgpt",
-          "tweetUrl": "https://x.com/embirico/status/2018775521967136898",
-          "announcer": "embirico"
+          "category": "chatgpt"
         }
       ]
     },
@@ -97,7 +89,7 @@
           "name": "300M ChatGPT Users",
           "icon": "👥",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2019822534003437619",
+          "tweetUrl": "https://x.com/OpenAI/status/2019822532795547807",
           "announcer": "OpenAI"
         },
         {
@@ -128,7 +120,7 @@
           "name": "Ads Test in ChatGPT",
           "icon": "📢",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2022390098495721597",
+          "tweetUrl": "https://x.com/OpenAI/status/2020936703763153010",
           "announcer": "OpenAI"
         }
       ]
@@ -140,14 +132,14 @@
           "name": "Deep Research → GPT-5.2",
           "icon": "🔬",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2022009582210715925",
+          "tweetUrl": "https://x.com/OpenAI/status/2021299935678026168",
           "announcer": "OpenAI"
         },
         {
           "name": "Export + Follow-up Q",
           "icon": "📤",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2022009583653576787",
+          "tweetUrl": "https://x.com/OpenAI/status/2021299936948781095",
           "announcer": "OpenAI"
         }
       ]
@@ -159,22 +151,20 @@
           "name": "GPT-5.3-Codex-Spark",
           "icon": "⚡",
           "category": "api",
-          "tweetUrl": "https://x.com/sama/status/2024826822060290508",
-          "announcer": "sama"
+          "tweetUrl": "https://x.com/OpenAI/status/2024193883748651102",
+          "announcer": "OpenAI"
         },
         {
           "name": "Cerebras Partnership",
           "icon": "🤝",
           "category": "other",
-          "tweetUrl": "https://x.com/embirico/status/2024250565744873682",
+          "tweetUrl": "https://x.com/embirico/status/2022011246812573869",
           "announcer": "embirico"
         },
         {
           "name": "NVIDIA ~30K Engineers",
           "icon": "🏢",
-          "category": "other",
-          "tweetUrl": "https://x.com/embirico/status/2024023412046176766",
-          "announcer": "embirico"
+          "category": "other"
         }
       ]
     },
@@ -216,7 +206,7 @@
           "name": "EVMbench Launch",
           "icon": "🔐",
           "announcer": "OpenAI",
-          "tweetUrl": "https://x.com/OpenAI/status/2028893710323466605",
+          "tweetUrl": "https://x.com/OpenAI/status/2024193883748651102",
           "category": "other"
         }
       ]
@@ -242,9 +232,7 @@
         {
           "name": "Code → Design → Code",
           "icon": "🎨",
-          "category": "codex",
-          "tweetUrl": "https://x.com/embirico/status/2029278904096309526",
-          "announcer": "embirico"
+          "category": "codex"
         },
         {
           "name": "Figma Integration",
@@ -260,14 +248,14 @@
           "name": "GPT-5.3 Instant GA",
           "icon": "⚡",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2031888169956934011",
+          "tweetUrl": "https://x.com/OpenAI/status/2028893701427302559",
           "announcer": "OpenAI"
         },
         {
           "name": "Fewer Refusals",
           "icon": "✅",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2031888235593678894",
+          "tweetUrl": "https://x.com/OpenAI/status/2028893710323466605",
           "announcer": "OpenAI"
         },
         {
@@ -284,15 +272,13 @@
           "name": "Codex for Windows",
           "icon": "🪟",
           "category": "codex",
-          "tweetUrl": "https://x.com/sama/status/2032209975280533676",
+          "tweetUrl": "https://x.com/sama/status/2029623487007183274",
           "announcer": "sama"
         },
         {
           "name": "Native Agent Sandbox",
           "icon": "📦",
-          "category": "codex",
-          "tweetUrl": "https://x.com/embirico/status/2022378682749456870",
-          "announcer": "embirico"
+          "category": "codex"
         }
       ]
     },
@@ -303,28 +289,26 @@
           "name": "GPT-5.4 Launch",
           "icon": "🚀",
           "category": "api",
-          "tweetUrl": "https://x.com/sama/status/2032867435704103006",
+          "tweetUrl": "https://x.com/sama/status/2029622732594499630",
           "announcer": "sama"
         },
         {
           "name": "GPT-5.4 Thinking + Pro",
           "icon": "🧠",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAI/status/2032884374233035079",
+          "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
           "announcer": "OpenAI"
         },
         {
           "name": "Codex Speed Boost",
           "icon": "⚡",
-          "category": "codex",
-          "tweetUrl": "https://x.com/embirico/status/2032884386052583655",
-          "announcer": "embirico"
+          "category": "codex"
         },
         {
           "name": "CoT Controllability",
           "icon": "🔬",
           "announcer": "OpenAI",
-          "tweetUrl": "https://x.com/OpenAI/status/2032555646399427051",
+          "tweetUrl": "https://x.com/OpenAI/status/2029650046002811280",
           "category": "api"
         }
       ]
@@ -336,14 +320,14 @@
           "name": "Codex Security Preview",
           "icon": "🔒",
           "category": "codex",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2033617059800879508",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2029983833567940639",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "Codex for OSS Program",
           "icon": "🌐",
           "category": "codex",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2033617047830335591",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2029998191043911955",
           "announcer": "OpenAIDevs"
         }
       ]
@@ -354,7 +338,9 @@
         {
           "name": "Codex Security → Pro",
           "icon": "🔒",
-          "category": "codex"
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2029983809652035758",
+          "announcer": "OpenAIDevs"
         }
       ]
     },
@@ -382,28 +368,28 @@
           "name": "Automations Now GA",
           "icon": "🤖",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505705155534907",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032222711032971548",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "GPT-5.4 #1 CursorBench",
           "icon": "🏆",
           "category": "api",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505725011370145",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032209975280533676",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "Video API (Sora 2)",
           "icon": "🎬",
           "announcer": "OpenAIDevs",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036522094218060241",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032142448970121468",
           "category": "api"
         },
         {
           "name": "Codex App Themes",
           "icon": "🎨",
           "announcer": "OpenAIDevs",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505725011370145",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032222631538409728",
           "category": "codex"
         }
       ]
@@ -415,14 +401,14 @@
           "name": "Codex Goes Global",
           "icon": "🌍",
           "category": "codex",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032884374233035079",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "Meetups in 20+ Cities",
           "icon": "🏙️",
           "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851158489423892",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2032884386052583655",
           "announcer": "OpenAIDevs"
         }
       ]
@@ -457,7 +443,9 @@
         {
           "name": "API + ChatGPT + Codex",
           "icon": "🔗",
-          "category": "api"
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2033953592424731072",
+          "announcer": "OpenAI"
         },
         {
           "name": "3.3× Codex Usage",
@@ -473,7 +461,7 @@
           "name": "OSS Applications Open",
           "icon": "🌐",
           "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2034315302931185818",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2034315278964998407",
           "announcer": "OpenAIDevs"
         },
         {
@@ -495,7 +483,7 @@
           "name": "India Expansion",
           "icon": "🇮🇳",
           "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296335020609867",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2034600898912272501",
           "announcer": "OpenAIDevs"
         }
       ]
@@ -507,14 +495,14 @@
           "name": "Codex for Students",
           "icon": "🎓",
           "category": "codex",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2037354021787439197",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2035033703274201109",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "$100 Credits (US+CA)",
           "icon": "💰",
           "category": "codex",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2037354021787439197",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2035033703274201109",
           "announcer": "OpenAIDevs"
         }
       ]
@@ -538,14 +526,14 @@
           "name": "ChatGPT File Library",
           "icon": "📁",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
+          "tweetUrl": "https://x.com/OpenAI/status/2036183180219392103",
           "announcer": "OpenAI"
         },
         {
           "name": "Plus / Pro / Business",
           "icon": "💳",
           "category": "chatgpt",
-          "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
+          "tweetUrl": "https://x.com/OpenAI/status/2036183180219392103",
           "announcer": "OpenAI"
         }
       ]
@@ -562,14 +550,14 @@
           "name": "Codex Creator Challenge",
           "icon": "🏆",
           "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296350682096013",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
           "announcer": "OpenAIDevs"
         },
         {
           "name": "$10K API Credits Prize",
           "icon": "💰",
           "category": "other",
-          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296350682096013",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
           "announcer": "OpenAIDevs"
         }
       ]
@@ -592,8 +580,8 @@
         {
           "name": "Use Cases Gallery",
           "icon": "📚",
-          "announcer": "romainhuet",
-          "tweetUrl": "https://x.com/romainhuet/status/2037658411853390141",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037604273434018259",
           "category": "codex"
         },
         {
