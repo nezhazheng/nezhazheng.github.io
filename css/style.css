@@ -283,6 +283,7 @@ h1 .highlight {
 
 .month-block {
   margin-bottom: 0;
+  min-width: 0;
 }
 
 .month-label {
@@ -296,12 +297,13 @@ h1 .highlight {
 
 .weekday-header {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
   gap: 4px;
   margin-bottom: 4px;
 }
 
 .weekday-header span {
+  min-width: 0;
   text-align: center;
   font-size: 0.74rem;
   font-weight: 600;
@@ -313,8 +315,9 @@ h1 .highlight {
 
 .month-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
   gap: 4px;
+  min-width: 0;
 }
 
 /* === Date Cells === */
@@ -322,6 +325,7 @@ h1 .highlight {
   background: var(--bg-surface);
   border-radius: 6px;
   min-height: 98px;
+  min-width: 0;
   padding: 0.45rem;
   position: relative;
   transition: background 0.15s;
@@ -378,12 +382,14 @@ h1 .highlight {
   display: flex;
   flex-direction: column;
   gap: 3px;
+  min-width: 0;
 }
 
 .feature-pill {
   display: flex;
   align-items: center;
   gap: 7px;
+  min-width: 0;
   padding: 2px 5px;
   border-radius: 999px;
   cursor: pointer;
