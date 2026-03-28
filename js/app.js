@@ -61,7 +61,6 @@
   const tooltip = document.getElementById('tooltip');
   const calendar = document.getElementById('calendar');
   const trackedPeople = document.getElementById('tracked-people');
-  const legend = document.getElementById('legend');
   const startInput = document.getElementById('start-date');
   const endInput = document.getElementById('end-date');
   const prevMonthButton = document.getElementById('prev-month');
@@ -374,26 +373,6 @@
     }
   }
 
-  function renderLegend() {
-    legend.textContent = '';
-    const team = state.activeTeam;
-
-    for (const [category, label] of Object.entries(team.categories)) {
-      const item = document.createElement('div');
-      item.className = 'legend-item';
-
-      const dot = document.createElement('span');
-      dot.className = `legend-dot ${team.categoryColors[category] || 'cat-other'}`;
-
-      const text = document.createElement('span');
-      text.textContent = label;
-
-      item.appendChild(dot);
-      item.appendChild(text);
-      legend.appendChild(item);
-    }
-  }
-
   function renderToolbar() {
     startInput.min = formatDate(state.bounds.min);
     startInput.max = formatDate(state.bounds.max);
@@ -660,7 +639,6 @@
     state.bounds = computeBounds(data);
 
     renderTrackedPeople(data.trackedAccounts || []);
-    renderLegend();
     setRangeToMonth(normalizeDate(new Date()));
   }
 
