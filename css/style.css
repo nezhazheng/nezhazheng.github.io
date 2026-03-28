@@ -26,6 +26,118 @@
   --cat-other: #a89888;
 }
 
+/* === OpenAI Theme === */
+body.theme-openai {
+  --bg-primary: #f7f7f5;
+  --bg-surface: #ffffff;
+  --bg-cell: #f0f0ec;
+  --bg-cell-active: #d4edda;
+  --bg-cell-hover: #c3e6cb;
+  --copper: #10a37f;
+  --copper-light: #0d8c6c;
+  --copper-bright: #08755a;
+  --text-primary: #1a1a1a;
+  --text-secondary: #555555;
+  --text-muted: #999999;
+  --border: #e0e0dc;
+
+  --cat-codex: #10a37f;
+  --cat-chatgpt: #6366f1;
+  --cat-api: #f59e0b;
+  --cat-desktop: #8b5cf6;
+  --cat-other: #9ca3af;
+}
+
+body.theme-openai .person-avatar-fallback,
+body.theme-openai .feature-avatar-fallback {
+  color: #fff;
+}
+
+body.theme-openai .range-field input {
+  color-scheme: light;
+}
+
+body.theme-openai .day-cell.out-of-range {
+  opacity: 0.5;
+  background: rgba(0, 0, 0, 0.04);
+}
+
+body.theme-openai .day-cell.adjacent-month {
+  opacity: 0.6;
+  background: rgba(0, 0, 0, 0.03);
+}
+
+body.theme-openai .day-cell.out-of-range:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+body.theme-openai .day-cell.adjacent-month:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+body.theme-openai .calendar-toolbar {
+  background: rgba(255, 255, 255, 0.86);
+}
+
+body.theme-openai .tooltip {
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* OpenAI category dot classes */
+.cat-codex { background-color: var(--cat-codex); }
+.cat-chatgpt { background-color: var(--cat-chatgpt); }
+
+/* === Team Switcher === */
+.team-switcher {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 1.5rem;
+  padding: 4px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team-tab {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0.5rem 1.2rem;
+  border: none;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+}
+
+.team-tab:hover {
+  background: rgba(128, 128, 128, 0.1);
+  color: var(--text-primary);
+}
+
+.team-tab.active {
+  background: var(--copper);
+  color: #fff;
+}
+
+.team-tab .team-logo {
+  flex-shrink: 0;
+}
+
+.team-tab:focus-visible {
+  outline: 2px solid var(--copper);
+  outline-offset: 2px;
+}
+
 html {
   font-size: 15px;
 }

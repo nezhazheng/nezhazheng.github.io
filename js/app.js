@@ -3,23 +3,55 @@
 
   const WEEKDAYS = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
 
-  const CATEGORY_COLORS = {
-    'claude-code': 'cat-claude-code',
-    'claude-ai': 'cat-claude-ai',
-    'api': 'cat-api',
-    'desktop': 'cat-desktop',
-    'other': 'cat-other'
-  };
-
-  const CATEGORY_LABELS = {
-    'claude-code': 'Claude Code',
-    'claude-ai': 'Claude.ai',
-    'api': 'API / Models',
-    'desktop': 'Desktop',
-    'other': 'Other'
+  const TEAMS = {
+    claude: {
+      id: 'claude',
+      name: 'Claude Team',
+      brandIcon: '\u2733',
+      brandLabel: 'ANTHROPIC RELEASES',
+      prefix: 'claude_team',
+      themeClass: '',
+      categories: {
+        'claude-code': 'Claude Code',
+        'claude-ai': 'Claude.ai',
+        'api': 'API / Models',
+        'desktop': 'Desktop',
+        'other': 'Other'
+      },
+      categoryColors: {
+        'claude-code': 'cat-claude-code',
+        'claude-ai': 'cat-claude-ai',
+        'api': 'cat-api',
+        'desktop': 'cat-desktop',
+        'other': 'cat-other'
+      }
+    },
+    openai: {
+      id: 'openai',
+      name: 'OpenAI',
+      brandIcon: '\u2B21',
+      brandLabel: 'OPENAI RELEASES',
+      prefix: 'openai_team',
+      themeClass: 'theme-openai',
+      categories: {
+        'codex': 'Codex',
+        'chatgpt': 'ChatGPT',
+        'api': 'API / Models',
+        'desktop': 'Desktop',
+        'other': 'Other'
+      },
+      categoryColors: {
+        'codex': 'cat-codex',
+        'chatgpt': 'cat-chatgpt',
+        'api': 'cat-api',
+        'desktop': 'cat-desktop',
+        'other': 'cat-other'
+      }
+    }
   };
 
   const state = {
+    activeTeam: null,
     data: null,
     bounds: null,
     range: null,
@@ -36,6 +68,8 @@
   const nextMonthButton = document.getElementById('next-month');
   const currentMonthButton = document.getElementById('current-month-button');
 
+  // --- Data loading ---
+
   async function loadJson(path) {
     const resp = await fetch(path);
     if (!resp.ok) {
@@ -44,10 +78,10 @@
     return resp.json();
   }
 
-  async function loadData() {
+  async function loadData(team) {
     const [releaseData, trackedAccounts] = await Promise.all([
-      loadJson('data/claude_team_releases.json'),
-      loadJson('data/claude_team_tracked_accounts.json').catch(() => null)
+      loadJson(`data/${team.prefix}_releases.json`),
+      loadJson(`data/${team.prefix}_tracked_accounts.json`).catch(() => null)
     ]);
 
     const normalizedAccounts = Array.isArray(trackedAccounts)
@@ -61,6 +95,8 @@
       trackedAccounts: normalizedAccounts
     };
   }
+
+  // --- Date utilities ---
 
   function normalizeDate(date) {
     return new Date(date.getFullYear(), date.getMonth(), date.getDate());
@@ -164,7 +200,7 @@
       year: 'numeric'
     });
 
-    return `${startText} — ${endText}`;
+    return `${startText} \u2014 ${endText}`;
   }
 
   function formatMonthLabel(date) {
@@ -182,7 +218,7 @@
       return formatMonthLabel(range.start);
     }
 
-    return `${formatMonthLabel(range.start)} — ${formatMonthLabel(range.end)}`;
+    return `${formatMonthLabel(range.start)} \u2014 ${formatMonthLabel(range.end)}`;
   }
 
   function getVisibleRangeCaption(range) {
@@ -190,8 +226,10 @@
       return 'Monthly view';
     }
 
-    return `Custom range · ${formatRangeLabel(range.start, range.end)}`;
+    return `Custom range \u00b7 ${formatRangeLabel(range.start, range.end)}`;
   }
+
+  // --- Computation ---
 
   function computeBounds(data) {
     const startDate = startOfMonth(parseDate(data.meta.startDate));
@@ -264,6 +302,8 @@
     return match ? match[1] : '';
   }
 
+  // --- Rendering helpers ---
+
   function createFallbackBadge(text, className) {
     const badge = document.createElement('div');
     badge.className = className;
@@ -282,6 +322,8 @@
     };
     return image;
   }
+
+  // --- Render functions ---
 
   function renderHeader(stats) {
     document.getElementById('day-count').textContent = stats.days;
@@ -334,13 +376,14 @@
 
   function renderLegend() {
     legend.textContent = '';
+    const team = state.activeTeam;
 
-    for (const [category, label] of Object.entries(CATEGORY_LABELS)) {
+    for (const [category, label] of Object.entries(team.categories)) {
       const item = document.createElement('div');
       item.className = 'legend-item';
 
       const dot = document.createElement('span');
-      dot.className = `legend-dot ${CATEGORY_COLORS[category]}`;
+      dot.className = `legend-dot ${team.categoryColors[category] || 'cat-other'}`;
 
       const text = document.createElement('span');
       text.textContent = label;
@@ -369,6 +412,15 @@
     nextMonthButton.disabled = datesEqual(state.monthCursor, maxMonth);
   }
 
+  function renderBranding() {
+    const team = state.activeTeam;
+    document.getElementById('brand-icon').textContent = team.brandIcon;
+    document.getElementById('brand-label').textContent = team.brandLabel;
+    document.getElementById('team-name').textContent = team.name;
+  }
+
+  // --- Feature pills ---
+
   function createFeatureMarker(feature) {
     const handle = feature.announcer || extractHandleFromTweetUrl(feature.tweetUrl);
 
@@ -382,21 +434,23 @@
       );
     }
 
+    const team = state.activeTeam;
     const dot = document.createElement('span');
-    dot.className = `feature-dot ${CATEGORY_COLORS[feature.category] || 'cat-other'}`;
+    dot.className = `feature-dot ${team.categoryColors[feature.category] || 'cat-other'}`;
     return dot;
   }
 
   function showTooltip(event, feature) {
     const handle = feature.announcer || extractHandleFromTweetUrl(feature.tweetUrl);
     const announcer = handle ? `@${handle}` : 'Unknown author';
-    const category = CATEGORY_LABELS[feature.category] || feature.category;
+    const team = state.activeTeam;
+    const category = team.categories[feature.category] || feature.category;
     const titleParts = [feature.icon || '', feature.name].filter(Boolean);
     const hint = feature.tweetUrl ? 'Opens original tweet' : 'Tweet link unavailable';
 
     tooltip.innerHTML = `
       <div class="tooltip-title">${escapeHtml(titleParts.join(' '))}</div>
-      <div class="tooltip-meta">${escapeHtml(category)} &middot; ${escapeHtml(announcer)}</div>
+      <div class="tooltip-meta">${escapeHtml(category)} \u00b7 ${escapeHtml(announcer)}</div>
       <div class="tooltip-meta">${escapeHtml(hint)}</div>
     `;
     tooltip.classList.add('visible');
@@ -448,6 +502,8 @@
 
     return pill;
   }
+
+  // --- Calendar rendering ---
 
   function createDayCell(cellDate, options = {}) {
     const { inRange = false, features = null, todayString = '', adjacentMonth = false } = options;
@@ -546,6 +602,8 @@
     }
   }
 
+  // --- State management ---
+
   function renderApp() {
     const stats = computeStats(state.data, state.range);
     renderHeader(stats);
@@ -576,20 +634,52 @@
     renderApp();
   }
 
+  // --- Team switching ---
+
+  async function switchTeam(teamId) {
+    const team = TEAMS[teamId];
+    if (!team) return;
+
+    state.activeTeam = team;
+    document.body.className = team.themeClass;
+
+    // Update branding
+    renderBranding();
+
+    // Update switcher active state
+    document.querySelectorAll('.team-tab').forEach(function (tab) {
+      tab.classList.toggle('active', tab.dataset.team === teamId);
+    });
+
+    // Update URL hash without scrolling
+    history.replaceState(null, '', `#${teamId}`);
+
+    // Load team data
+    const data = await loadData(team);
+    state.data = data;
+    state.bounds = computeBounds(data);
+
+    renderTrackedPeople(data.trackedAccounts || []);
+    renderLegend();
+    setRangeToMonth(normalizeDate(new Date()));
+  }
+
+  // --- Controls ---
+
   function bindControls() {
-    prevMonthButton.addEventListener('click', () => {
+    prevMonthButton.addEventListener('click', function () {
       setRangeToMonth(addMonths(state.monthCursor, -1));
     });
 
-    nextMonthButton.addEventListener('click', () => {
+    nextMonthButton.addEventListener('click', function () {
       setRangeToMonth(addMonths(state.monthCursor, 1));
     });
 
-    currentMonthButton.addEventListener('click', () => {
+    currentMonthButton.addEventListener('click', function () {
       setRangeToMonth(normalizeDate(new Date()));
     });
 
-    startInput.addEventListener('change', () => {
+    startInput.addEventListener('change', function () {
       if (!startInput.value) return;
 
       const nextStart = parseDate(startInput.value);
@@ -597,25 +687,42 @@
       setRange(nextStart, nextEnd);
     });
 
-    endInput.addEventListener('change', () => {
+    endInput.addEventListener('change', function () {
       if (!endInput.value) return;
 
       const nextEnd = parseDate(endInput.value);
       const nextStart = startInput.value ? parseDate(startInput.value) : nextEnd;
       setRange(nextStart, nextEnd);
     });
+
+    // Team switcher
+    document.querySelectorAll('.team-tab').forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        const teamId = this.dataset.team;
+        if (state.activeTeam && state.activeTeam.id === teamId) return;
+        switchTeam(teamId);
+      });
+    });
+
+    // Hash change
+    window.addEventListener('hashchange', function () {
+      const hash = location.hash.replace('#', '');
+      if (TEAMS[hash] && state.activeTeam.id !== hash) {
+        switchTeam(hash);
+      }
+    });
   }
+
+  // --- Init ---
 
   async function init() {
     try {
-      const data = await loadData();
-      state.data = data;
-      state.bounds = computeBounds(data);
+      // Determine initial team from URL hash
+      const hash = location.hash.replace('#', '');
+      const initialTeamId = TEAMS[hash] ? hash : 'claude';
 
-      renderTrackedPeople(data.trackedAccounts || []);
-      renderLegend();
       bindControls();
-      setRangeToMonth(normalizeDate(new Date()));
+      await switchTeam(initialTeamId);
     } catch (error) {
       console.error('Failed to load release data:', error);
       calendar.innerHTML =

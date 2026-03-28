@@ -3,22 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ship Speed - Claude Team Release Calendar</title>
-  <meta name="description" content="Track everything Claude Team ships. A live calendar of Anthropic product releases.">
-  <meta property="og:title" content="Ship Speed - Claude Team Release Calendar">
-  <meta property="og:description" content="Track everything Claude Team ships. A live calendar of Anthropic product releases.">
+  <title>Ship Speed - AI Team Release Calendar</title>
+  <meta name="description" content="Track everything Claude Team and OpenAI ship. A live calendar of AI product releases.">
+  <meta property="og:title" content="Ship Speed - AI Team Release Calendar">
+  <meta property="og:description" content="Track everything Claude Team and OpenAI ship. A live calendar of AI product releases.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://shipspeed.cc">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <div class="container">
+    <nav class="team-switcher" aria-label="Team selector">
+      <button class="team-tab active" data-team="claude" type="button">
+        <svg class="team-logo" viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M17.308 3.616c-2.107-1.09-4.695-1.37-7.522-.608C6.396 4.08 3.918 6.6 2.972 9.834c-.612 2.098-.558 4.24.069 6.15l.003.008.003.01c.694 2.1 2.081 3.78 3.87 4.856 1.787 1.073 3.872 1.478 5.87 1.1l.013-.002.012-.003c2.34-.484 4.278-1.85 5.508-3.73 1.226-1.873 1.77-4.31 1.178-6.904l-.003-.013-.004-.013C18.8 8.7 17.652 6.32 17.308 3.615Zm-3.146 14.478a2.218 2.218 0 0 0 1.727-.458c.467-.392.69-.978.608-1.62-.068-.565-.43-1.122-.972-1.442a.586.586 0 0 0-.088-.042l-3.474-1.27 3.026-1.9c.508-.277.871-.78.958-1.346.098-.64-.12-1.23-.583-1.627a2.218 2.218 0 0 0-1.71-.488c-.618.08-1.17.393-1.494.87l-1.9 3.024-1.268-3.472a.576.576 0 0 0-.042-.09c-.32-.54-.878-.902-1.442-.97a2.074 2.074 0 0 0-1.62.608 2.218 2.218 0 0 0-.458 1.727c.102.615.43 1.162.923 1.476l.006.003.072.04 3.474 1.27-3.026 1.9a2.332 2.332 0 0 0-.958 1.346c-.098.64.12 1.23.583 1.627.44.378 1.06.553 1.71.489.618-.08 1.17-.393 1.494-.871l1.9-3.025 1.268 3.472.042.09c.32.542.878.903 1.442.971.064.008.13.012.195.014l.013.001c.055.002.11 0 .165-.005l.014-.002Z"/></svg>
+        Claude
+      </button>
+      <button class="team-tab" data-team="openai" type="button">
+        <svg class="team-logo" viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M22.282 9.821a5.985 5.985 0 0 0-.516-4.91 6.046 6.046 0 0 0-6.51-2.9A6.065 6.065 0 0 0 4.981 4.18a5.998 5.998 0 0 0-3.998 2.9 6.046 6.046 0 0 0 .743 7.097 5.98 5.98 0 0 0 .51 4.911 6.051 6.051 0 0 0 6.515 2.9A5.985 5.985 0 0 0 13.26 24a6.056 6.056 0 0 0 5.772-4.206 5.99 5.99 0 0 0 3.997-2.9 6.056 6.056 0 0 0-.747-7.073zM13.26 22.43a4.476 4.476 0 0 1-2.876-1.04l.141-.081 4.779-2.758a.795.795 0 0 0 .392-.681v-6.737l2.02 1.168a.071.071 0 0 1 .038.052v5.583a4.504 4.504 0 0 1-4.494 4.494zM3.6 18.304a4.47 4.47 0 0 1-.535-3.014l.142.085 4.783 2.759a.771.771 0 0 0 .78 0l5.843-3.369v2.332a.08.08 0 0 1-.033.062L9.74 19.95a4.5 4.5 0 0 1-6.14-1.646zM2.34 7.896a4.485 4.485 0 0 1 2.366-1.973V11.6a.766.766 0 0 0 .388.676l5.815 3.355-2.02 1.168a.076.076 0 0 1-.071 0l-4.83-2.786A4.504 4.504 0 0 1 2.34 7.872zm16.597 3.855l-5.833-3.387L15.119 7.2a.076.076 0 0 1 .071 0l4.83 2.791a4.494 4.494 0 0 1-.676 8.105v-5.678a.79.79 0 0 0-.407-.667zm2.01-3.023l-.141-.085-4.774-2.782a.776.776 0 0 0-.785 0L9.409 9.23V6.897a.066.066 0 0 1 .028-.061l4.83-2.787a4.5 4.5 0 0 1 6.68 4.66zm-12.64 4.135l-2.02-1.164a.08.08 0 0 1-.038-.057V6.075a4.5 4.5 0 0 1 7.375-3.453l-.142.08L8.704 5.46a.795.795 0 0 0-.393.681zm1.097-2.365l2.602-1.5 2.607 1.5v2.999l-2.597 1.5-2.607-1.5z"/></svg>
+        OpenAI
+      </button>
+    </nav>
+
     <header>
       <div class="brand">
-        <span class="brand-icon">✳</span>
-        <span class="brand-label">ANTHROPIC RELEASES</span>
+        <span class="brand-icon" id="brand-icon">✳</span>
+        <span class="brand-label" id="brand-label">ANTHROPIC RELEASES</span>
       </div>
-      <h1>Everything <span class="highlight">Claude Team</span> shipped in <span id="day-count">--</span> days</h1>
+      <h1>Everything <span class="highlight" id="team-name">Claude Team</span> shipped in <span id="day-count">--</span> days</h1>
       <p class="subtitle">
         <span id="date-range"></span>. Product releases only.
       </p>

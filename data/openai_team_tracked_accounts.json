@@ -1,0 +1,42 @@
+[
+  {
+    "name": "OpenAI",
+    "handle": "OpenAI"
+  },
+  {
+    "name": "OpenAI Devs",
+    "handle": "OpenAIDevs"
+  },
+  {
+    "name": "Sam Altman",
+    "handle": "sama"
+  },
+  {
+    "name": "Greg Brockman",
+    "handle": "gdb"
+  },
+  {
+    "name": "Romain Huet",
+    "handle": "romainhuet"
+  },
+  {
+    "name": "Peter Welinder",
+    "handle": "npew"
+  },
+  {
+    "name": "Daniel Edrisian",
+    "handle": "DanielEdrisian"
+  },
+  {
+    "name": "Alex Embiricos",
+    "handle": "embirico"
+  },
+  {
+    "name": "Michael Bolin",
+    "handle": "bolinfest"
+  },
+  {
+    "name": "Peter Steinberger",
+    "handle": "steipete"
+  }
+]
