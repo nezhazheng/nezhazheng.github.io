@@ -75,6 +75,10 @@ body.theme-openai .day-cell.adjacent-month:hover {
   background: rgba(0, 0, 0, 0.05);
 }
 
+body.theme-openai .feature-pill:hover {
+  background: rgba(0, 0, 0, 0.08);
+}
+
 body.theme-openai .calendar-toolbar {
   background: rgba(255, 255, 255, 0.86);
 }
@@ -176,6 +180,8 @@ header {
 .brand-icon {
   color: var(--copper);
   font-size: 1.2rem;
+  display: flex;
+  align-items: center;
 }
 
 h1 {
