@@ -13,16 +13,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/OpenAI/status/2018385568992752059",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "500K Downloads Day 1",
-          "icon": "📈",
-          "category": "codex"
-        },
-        {
-          "name": "Codex in GitHub AgentHQ",
-          "icon": "🔗",
-          "category": "codex"
         }
       ]
     },
@@ -35,26 +25,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/embirico/status/2018859528020979755",
           "announcer": "embirico"
-        },
-        {
-          "name": "Live Workshop",
-          "icon": "🎓",
-          "category": "other"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-04",
-      "features": [
-        {
-          "name": "Codex in VS Code",
-          "icon": "💻",
-          "category": "codex"
-        },
-        {
-          "name": "Agent HQ Beta",
-          "icon": "🤖",
-          "category": "codex"
         }
       ]
     },
@@ -74,11 +44,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/embirico/status/2019478580280103216",
           "announcer": "embirico"
-        },
-        {
-          "name": "All Paid Plans",
-          "icon": "💳",
-          "category": "chatgpt"
         }
       ]
     },
@@ -91,11 +56,6 @@
           "category": "chatgpt",
           "tweetUrl": "https://x.com/OpenAI/status/2019822532795547807",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "Codex Hackathon Recap",
-          "icon": "🏗️",
-          "category": "other"
         },
         {
           "name": "Codex Personalities",
@@ -160,11 +120,6 @@
           "category": "other",
           "tweetUrl": "https://x.com/embirico/status/2022011246812573869",
           "announcer": "embirico"
-        },
-        {
-          "name": "NVIDIA ~30K Engineers",
-          "icon": "🏢",
-          "category": "other"
         }
       ]
     },
@@ -212,36 +167,6 @@
       ]
     },
     {
-      "date": "2026-02-24",
-      "features": [
-        {
-          "name": "GPT-5.3-Codex in Responses API",
-          "icon": "🔌",
-          "category": "api"
-        },
-        {
-          "name": "All Developers Access",
-          "icon": "🔓",
-          "category": "api"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-26",
-      "features": [
-        {
-          "name": "Code → Design → Code",
-          "icon": "🎨",
-          "category": "codex"
-        },
-        {
-          "name": "Figma Integration",
-          "icon": "🖌️",
-          "category": "codex"
-        }
-      ]
-    },
-    {
       "date": "2026-03-03",
       "features": [
         {
@@ -257,11 +182,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/OpenAI/status/2028893710323466605",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "Codex APAC Hackathon",
-          "icon": "🌏",
-          "category": "other"
         }
       ]
     },
@@ -274,11 +194,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/sama/status/2029623487007183274",
           "announcer": "sama"
-        },
-        {
-          "name": "Native Agent Sandbox",
-          "icon": "📦",
-          "category": "codex"
         }
       ]
     },
@@ -298,11 +213,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "Codex Speed Boost",
-          "icon": "⚡",
-          "category": "codex"
         },
         {
           "name": "CoT Controllability",
@@ -353,11 +263,6 @@
           "category": "other",
           "tweetUrl": "https://x.com/OpenAI/status/2035348283980398906",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "Evals + Red-teaming",
-          "icon": "🧪",
-          "category": "other"
         }
       ]
     },
@@ -422,11 +327,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/gdb/status/2033757784437895367",
           "announcer": "gdb"
-        },
-        {
-          "name": "Codex × Notion",
-          "icon": "📝",
-          "category": "codex"
         }
       ]
     },
@@ -446,11 +346,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/OpenAI/status/2033953592424731072",
           "announcer": "OpenAI"
-        },
-        {
-          "name": "3.3× Codex Usage",
-          "icon": "📈",
-          "category": "codex"
         }
       ]
     },
@@ -463,22 +358,12 @@
           "category": "other",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2034315278964998407",
           "announcer": "OpenAIDevs"
-        },
-        {
-          "name": "Community Hub Launch",
-          "icon": "🏠",
-          "category": "other"
         }
       ]
     },
     {
       "date": "2026-03-19",
       "features": [
-        {
-          "name": "Desktop Global Shortcut",
-          "icon": "⌨️",
-          "category": "desktop"
-        },
         {
           "name": "India Expansion",
           "icon": "🇮🇳",
@@ -541,11 +426,6 @@
     {
       "date": "2026-03-25",
       "features": [
-        {
-          "name": "Search in Codex App",
-          "icon": "🔍",
-          "category": "codex"
-        },
         {
           "name": "Codex Creator Challenge",
           "icon": "🏆",
