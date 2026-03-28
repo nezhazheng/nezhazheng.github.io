@@ -1,201 +1,608 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-03-28T00:00:00Z"
+    "lastUpdated": "2026-03-28T06:31:37.453Z"
   },
   "releases": [
     {
       "date": "2026-02-02",
       "features": [
-        {"name": "Codex App Launch (macOS)", "icon": "🚀", "category": "codex"},
-        {"name": "500K Downloads Day 1", "icon": "📈", "category": "codex"},
-        {"name": "Codex in GitHub AgentHQ", "icon": "🔗", "category": "codex"}
+        {
+          "name": "Codex App Launch (macOS)",
+          "icon": "🚀",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAI/status/2018385568992752059",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "500K Downloads Day 1",
+          "icon": "📈",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAI/status/2019173348132188330",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Codex in GitHub AgentHQ",
+          "icon": "🔗",
+          "category": "codex",
+          "tweetUrl": "https://x.com/embirico/status/2018775525200924955",
+          "announcer": "embirico"
+        }
       ]
     },
     {
       "date": "2026-02-03",
       "features": [
-        {"name": "Codex in Xcode 26.3", "icon": "🍎", "category": "codex"},
-        {"name": "Live Workshop", "icon": "🎓", "category": "other"}
+        {
+          "name": "Codex in Xcode 26.3",
+          "icon": "🍎",
+          "category": "codex",
+          "tweetUrl": "https://x.com/embirico/status/2018945236102516898",
+          "announcer": "embirico"
+        },
+        {
+          "name": "Live Workshop",
+          "icon": "🎓",
+          "category": "other"
+        }
       ]
     },
     {
       "date": "2026-02-04",
       "features": [
-        {"name": "Codex in VS Code", "icon": "💻", "category": "codex"},
-        {"name": "Agent HQ Beta", "icon": "🤖", "category": "codex"}
+        {
+          "name": "Codex in VS Code",
+          "icon": "💻",
+          "category": "codex",
+          "tweetUrl": "https://x.com/sama/status/2020940847190356092",
+          "announcer": "sama"
+        },
+        {
+          "name": "Agent HQ Beta",
+          "icon": "🤖",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-02-05",
       "features": [
-        {"name": "GPT-5.3-Codex Launch", "icon": "🧠", "category": "api"},
-        {"name": "New SOTA on SWE-bench", "icon": "🏆", "category": "api"},
-        {"name": "All Paid Plans", "icon": "💳", "category": "chatgpt"}
+        {
+          "name": "GPT-5.3-Codex Launch",
+          "icon": "🧠",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2019488072912839111",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "New SOTA on SWE-bench",
+          "icon": "🏆",
+          "category": "api",
+          "tweetUrl": "https://x.com/embirico/status/2019480346170175883",
+          "announcer": "embirico"
+        },
+        {
+          "name": "All Paid Plans",
+          "icon": "💳",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/embirico/status/2018775521967136898",
+          "announcer": "embirico"
+        }
       ]
     },
     {
       "date": "2026-02-06",
       "features": [
-        {"name": "300M ChatGPT Users", "icon": "👥", "category": "chatgpt"},
-        {"name": "Codex Hackathon Recap", "icon": "🏗️", "category": "other"}
+        {
+          "name": "300M ChatGPT Users",
+          "icon": "👥",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAI/status/2019822534003437619",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Codex Hackathon Recap",
+          "icon": "🏗️",
+          "category": "other"
+        },
+        {
+          "name": "Codex Personalities",
+          "icon": "🎭",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2019872802787193042",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-02-09",
       "features": [
-        {"name": "Codex in Cursor + GitHub", "icon": "🔌", "category": "codex"},
-        {"name": "Ads Test in ChatGPT", "icon": "📢", "category": "chatgpt"}
+        {
+          "name": "Codex in Cursor + GitHub",
+          "icon": "🔌",
+          "category": "codex",
+          "tweetUrl": "https://x.com/sama/status/2020940847190356092",
+          "announcer": "sama"
+        },
+        {
+          "name": "Ads Test in ChatGPT",
+          "icon": "📢",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAI/status/2022390098495721597",
+          "announcer": "OpenAI"
+        }
       ]
     },
     {
       "date": "2026-02-10",
       "features": [
-        {"name": "Deep Research → GPT-5.2", "icon": "🔬", "category": "api"},
-        {"name": "Export + Follow-up Q", "icon": "📤", "category": "chatgpt"}
+        {
+          "name": "Deep Research → GPT-5.2",
+          "icon": "🔬",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2022009582210715925",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Export + Follow-up Q",
+          "icon": "📤",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAI/status/2022009583653576787",
+          "announcer": "OpenAI"
+        }
       ]
     },
     {
       "date": "2026-02-12",
       "features": [
-        {"name": "GPT-5.3-Codex-Spark", "icon": "⚡", "category": "api"},
-        {"name": "Cerebras Partnership", "icon": "🤝", "category": "other"},
-        {"name": "NVIDIA ~30K Engineers", "icon": "🏢", "category": "other"}
+        {
+          "name": "GPT-5.3-Codex-Spark",
+          "icon": "⚡",
+          "category": "api",
+          "tweetUrl": "https://x.com/sama/status/2024826822060290508",
+          "announcer": "sama"
+        },
+        {
+          "name": "Cerebras Partnership",
+          "icon": "🤝",
+          "category": "other",
+          "tweetUrl": "https://x.com/embirico/status/2024250565744873682",
+          "announcer": "embirico"
+        },
+        {
+          "name": "NVIDIA ~30K Engineers",
+          "icon": "🏢",
+          "category": "other",
+          "tweetUrl": "https://x.com/embirico/status/2024023412046176766",
+          "announcer": "embirico"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "features": [
+        {
+          "name": "Agent Sandbox (Windows)",
+          "icon": "📦",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2022378682749456870",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-02-15",
       "features": [
-        {"name": "@steipete Joins OpenAI", "icon": "👋", "category": "other"},
-        {"name": "Personal AI Future", "icon": "🔮", "category": "other"}
+        {
+          "name": "@steipete Joins OpenAI",
+          "icon": "👋",
+          "category": "other",
+          "tweetUrl": "https://x.com/steipete/status/2027498705771757975",
+          "announcer": "steipete"
+        },
+        {
+          "name": "Personal AI Future",
+          "icon": "🔮",
+          "category": "other",
+          "tweetUrl": "https://x.com/sama/status/2027087128514183553",
+          "announcer": "sama"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "features": [
+        {
+          "name": "EVMbench Launch",
+          "icon": "🔐",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2028893710323466605",
+          "category": "other"
+        }
       ]
     },
     {
       "date": "2026-02-24",
       "features": [
-        {"name": "GPT-5.3-Codex in Responses API", "icon": "🔌", "category": "api"},
-        {"name": "All Developers Access", "icon": "🔓", "category": "api"}
+        {
+          "name": "GPT-5.3-Codex in Responses API",
+          "icon": "🔌",
+          "category": "api"
+        },
+        {
+          "name": "All Developers Access",
+          "icon": "🔓",
+          "category": "api"
+        }
       ]
     },
     {
       "date": "2026-02-26",
       "features": [
-        {"name": "Code → Design → Code", "icon": "🎨", "category": "codex"},
-        {"name": "Figma Integration", "icon": "🖌️", "category": "codex"}
+        {
+          "name": "Code → Design → Code",
+          "icon": "🎨",
+          "category": "codex",
+          "tweetUrl": "https://x.com/embirico/status/2029278904096309526",
+          "announcer": "embirico"
+        },
+        {
+          "name": "Figma Integration",
+          "icon": "🖌️",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-03-03",
       "features": [
-        {"name": "GPT-5.3 Instant GA", "icon": "⚡", "category": "api"},
-        {"name": "Fewer Refusals", "icon": "✅", "category": "api"},
-        {"name": "Codex APAC Hackathon", "icon": "🌏", "category": "other"}
+        {
+          "name": "GPT-5.3 Instant GA",
+          "icon": "⚡",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2031888169956934011",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Fewer Refusals",
+          "icon": "✅",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2031888235593678894",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Codex APAC Hackathon",
+          "icon": "🌏",
+          "category": "other"
+        }
       ]
     },
     {
       "date": "2026-03-04",
       "features": [
-        {"name": "Codex for Windows", "icon": "🪟", "category": "codex"},
-        {"name": "Native Agent Sandbox", "icon": "📦", "category": "codex"}
+        {
+          "name": "Codex for Windows",
+          "icon": "🪟",
+          "category": "codex",
+          "tweetUrl": "https://x.com/sama/status/2032209975280533676",
+          "announcer": "sama"
+        },
+        {
+          "name": "Native Agent Sandbox",
+          "icon": "📦",
+          "category": "codex",
+          "tweetUrl": "https://x.com/embirico/status/2022378682749456870",
+          "announcer": "embirico"
+        }
       ]
     },
     {
       "date": "2026-03-05",
       "features": [
-        {"name": "GPT-5.4 Launch", "icon": "🚀", "category": "api"},
-        {"name": "GPT-5.4 Thinking + Pro", "icon": "🧠", "category": "api"},
-        {"name": "Codex Speed Boost", "icon": "⚡", "category": "codex"}
+        {
+          "name": "GPT-5.4 Launch",
+          "icon": "🚀",
+          "category": "api",
+          "tweetUrl": "https://x.com/sama/status/2032867435704103006",
+          "announcer": "sama"
+        },
+        {
+          "name": "GPT-5.4 Thinking + Pro",
+          "icon": "🧠",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2032884374233035079",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Codex Speed Boost",
+          "icon": "⚡",
+          "category": "codex",
+          "tweetUrl": "https://x.com/embirico/status/2032884386052583655",
+          "announcer": "embirico"
+        },
+        {
+          "name": "CoT Controllability",
+          "icon": "🔬",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2032555646399427051",
+          "category": "api"
+        }
       ]
     },
     {
       "date": "2026-03-06",
       "features": [
-        {"name": "Codex Security Preview", "icon": "🔒", "category": "codex"},
-        {"name": "Codex for OSS Program", "icon": "🌐", "category": "codex"}
+        {
+          "name": "Codex Security Preview",
+          "icon": "🔒",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2033617059800879508",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "Codex for OSS Program",
+          "icon": "🌐",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2033617047830335591",
+          "announcer": "OpenAIDevs"
+        }
       ]
     },
     {
       "date": "2026-03-07",
       "features": [
-        {"name": "Codex Security → Pro", "icon": "🔒", "category": "codex"}
+        {
+          "name": "Codex Security → Pro",
+          "icon": "🔒",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-03-09",
       "features": [
-        {"name": "Acquiring Promptfoo", "icon": "🏢", "category": "other"},
-        {"name": "Evals + Red-teaming", "icon": "🧪", "category": "other"}
+        {
+          "name": "Acquiring Promptfoo",
+          "icon": "🏢",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAI/status/2035348283980398906",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Evals + Red-teaming",
+          "icon": "🧪",
+          "category": "other"
+        }
       ]
     },
     {
       "date": "2026-03-12",
       "features": [
-        {"name": "Automations Now GA", "icon": "🤖", "category": "chatgpt"},
-        {"name": "GPT-5.4 #1 CursorBench", "icon": "🏆", "category": "api"}
+        {
+          "name": "Automations Now GA",
+          "icon": "🤖",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505705155534907",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "GPT-5.4 #1 CursorBench",
+          "icon": "🏆",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505725011370145",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "Video API (Sora 2)",
+          "icon": "🎬",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036522094218060241",
+          "category": "api"
+        },
+        {
+          "name": "Codex App Themes",
+          "icon": "🎨",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036505725011370145",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-03-14",
       "features": [
-        {"name": "Codex Goes Global", "icon": "🌍", "category": "codex"},
-        {"name": "Meetups in 20+ Cities", "icon": "🏙️", "category": "other"}
+        {
+          "name": "Codex Goes Global",
+          "icon": "🌍",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851146300809531",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "Meetups in 20+ Cities",
+          "icon": "🏙️",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2036851158489423892",
+          "announcer": "OpenAIDevs"
+        }
       ]
     },
     {
       "date": "2026-03-16",
       "features": [
-        {"name": "Subagents in Codex", "icon": "🤖", "category": "codex"},
-        {"name": "Codex × Notion", "icon": "📝", "category": "codex"}
+        {
+          "name": "Subagents in Codex",
+          "icon": "🤖",
+          "category": "codex",
+          "tweetUrl": "https://x.com/gdb/status/2033757784437895367",
+          "announcer": "gdb"
+        },
+        {
+          "name": "Codex × Notion",
+          "icon": "📝",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-03-17",
       "features": [
-        {"name": "GPT-5.4 Mini + Nano", "icon": "🧠", "category": "api"},
-        {"name": "API + ChatGPT + Codex", "icon": "🔗", "category": "api"},
-        {"name": "3.3× Codex Usage", "icon": "📈", "category": "codex"}
+        {
+          "name": "GPT-5.4 Mini + Nano",
+          "icon": "🧠",
+          "category": "api",
+          "tweetUrl": "https://x.com/OpenAI/status/2033953592424731072",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "API + ChatGPT + Codex",
+          "icon": "🔗",
+          "category": "api"
+        },
+        {
+          "name": "3.3× Codex Usage",
+          "icon": "📈",
+          "category": "codex"
+        }
       ]
     },
     {
       "date": "2026-03-18",
       "features": [
-        {"name": "OSS Applications Open", "icon": "🌐", "category": "other"},
-        {"name": "Community Hub Launch", "icon": "🏠", "category": "other"}
+        {
+          "name": "OSS Applications Open",
+          "icon": "🌐",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2034315302931185818",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "Community Hub Launch",
+          "icon": "🏠",
+          "category": "other"
+        }
       ]
     },
     {
       "date": "2026-03-19",
       "features": [
-        {"name": "Desktop Global Shortcut", "icon": "⌨️", "category": "desktop"},
-        {"name": "India Expansion", "icon": "🇮🇳", "category": "other"}
+        {
+          "name": "Desktop Global Shortcut",
+          "icon": "⌨️",
+          "category": "desktop"
+        },
+        {
+          "name": "India Expansion",
+          "icon": "🇮🇳",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296335020609867",
+          "announcer": "OpenAIDevs"
+        }
       ]
     },
     {
       "date": "2026-03-20",
       "features": [
-        {"name": "Codex for Students", "icon": "🎓", "category": "codex"},
-        {"name": "$100 Credits (US+CA)", "icon": "💰", "category": "codex"}
+        {
+          "name": "Codex for Students",
+          "icon": "🎓",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037354021787439197",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "$100 Credits (US+CA)",
+          "icon": "💰",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037354021787439197",
+          "announcer": "OpenAIDevs"
+        }
       ]
     },
     {
       "date": "2026-03-21",
       "features": [
-        {"name": "Faster Agent Workflows", "icon": "⚡", "category": "codex"}
+        {
+          "name": "Faster Agent Workflows",
+          "icon": "⚡",
+          "category": "codex",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2035437297005727963",
+          "announcer": "OpenAIDevs"
+        }
       ]
     },
     {
       "date": "2026-03-23",
       "features": [
-        {"name": "ChatGPT File Library", "icon": "📁", "category": "chatgpt"},
-        {"name": "Plus / Pro / Business", "icon": "💳", "category": "chatgpt"}
+        {
+          "name": "ChatGPT File Library",
+          "icon": "📁",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
+          "announcer": "OpenAI"
+        },
+        {
+          "name": "Plus / Pro / Business",
+          "icon": "💳",
+          "category": "chatgpt",
+          "tweetUrl": "https://x.com/OpenAI/status/2029620619743219811",
+          "announcer": "OpenAI"
+        }
       ]
     },
     {
       "date": "2026-03-25",
       "features": [
-        {"name": "Search in Codex App", "icon": "🔍", "category": "codex"},
-        {"name": "Codex Creator Challenge", "icon": "🏆", "category": "other"},
-        {"name": "$10K API Credits Prize", "icon": "💰", "category": "other"}
+        {
+          "name": "Search in Codex App",
+          "icon": "🔍",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Creator Challenge",
+          "icon": "🏆",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296350682096013",
+          "announcer": "OpenAIDevs"
+        },
+        {
+          "name": "$10K API Credits Prize",
+          "icon": "💰",
+          "category": "other",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296350682096013",
+          "announcer": "OpenAIDevs"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "features": [
+        {
+          "name": "Codex Plugins Launch",
+          "icon": "🔌",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037296316104282119",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "features": [
+        {
+          "name": "Use Cases Gallery",
+          "icon": "📚",
+          "announcer": "romainhuet",
+          "tweetUrl": "https://x.com/romainhuet/status/2037658411853390141",
+          "category": "codex"
+        },
+        {
+          "name": "gpt-realtime-1.5",
+          "icon": "🎤",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2037658411853390141",
+          "category": "api"
+        }
       ]
     }
   ]
