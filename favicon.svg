@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Ship Speed favicon">
+  <rect width="256" height="256" fill="#000"/>
+  <path
+    d="M128 22 L202 96 L128 170 L54 96 Z"
+    fill="#454542"
+    stroke="#fff"
+    stroke-width="24"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M128 86 L202 160 L128 234 L54 160 Z"
+    fill="#454542"
+    stroke="#fff"
+    stroke-width="24"
+    stroke-linejoin="round"
+  />
+</svg>
