@@ -46,7 +46,7 @@
 
   async function loadData() {
     const [releaseData, trackedAccounts] = await Promise.all([
-      loadJson('data/releases.json'),
+      loadJson('data/claude_team_releases.json'),
       loadJson('data/claude_team_tracked_accounts.json').catch(() => null)
     ]);
 
