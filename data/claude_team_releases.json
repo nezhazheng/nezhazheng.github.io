@@ -1,7 +1,7 @@
 {
   "meta": {
-    "startDate": "2026-02-01",
-    "lastUpdated": "2026-03-27T16:38:54Z"
+    "startDate": "2026-02-03",
+    "lastUpdated": "2026-03-28T12:00:00Z"
   },
   "releases": [
     {
@@ -63,13 +63,6 @@
           "name": "Opus 4.6",
           "icon": "🚀",
           "category": "api",
-          "announcer": "bcherny",
-          "tweetUrl": "https://x.com/bcherny/status/2019471487833706769"
-        },
-        {
-          "name": "Effort Tuning",
-          "icon": "🎚️",
-          "category": "claude-code",
           "announcer": "bcherny",
           "tweetUrl": "https://x.com/bcherny/status/2019471487833706769"
         }
@@ -233,13 +226,6 @@
           "tweetUrl": "https://x.com/felixrieseberg/status/2026358808797393381"
         },
         {
-          "name": "Finance Plugins",
-          "icon": "💹",
-          "category": "claude-ai",
-          "announcer": "felixrieseberg",
-          "tweetUrl": "https://x.com/felixrieseberg/status/2026358808797393381"
-        },
-        {
           "name": "Google Workspace Connectors for Code",
           "icon": "🔌",
           "category": "claude-code",
@@ -273,18 +259,23 @@
           "tweetUrl": "https://x.com/claudeai/status/2026720872099467645"
         },
         {
-          "name": "Cowork Customize Tab",
-          "icon": "🎛️",
-          "category": "claude-ai",
-          "announcer": "claudeai",
-          "tweetUrl": "https://x.com/claudeai/status/2026720872099467645"
-        },
-        {
           "name": "Cowork on All Paid Plans",
           "icon": "💳",
           "category": "claude-ai",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2026720873294766430"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "features": [
+        {
+          "name": "Claude for Open Source",
+          "icon": "❤️",
+          "category": "other",
+          "tweetUrl": "https://x.com/lydiahallie/status/2027129030571634721",
+          "announcer": "lydiahallie"
         }
       ]
     },
@@ -328,6 +319,18 @@
           "category": "claude-ai",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2028559427167834314"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "features": [
+        {
+          "name": "CC Voice Mode (CLI)",
+          "icon": "🎤",
+          "category": "claude-code",
+          "tweetUrl": "https://x.com/bcherny/status/2028629573722939789",
+          "announcer": "bcherny"
         }
       ]
     },
@@ -491,6 +494,18 @@
       ]
     },
     {
+      "date": "2026-03-16",
+      "features": [
+        {
+          "name": "Skill Context Fork",
+          "icon": "🔀",
+          "category": "claude-code",
+          "tweetUrl": "https://x.com/lydiahallie/status/2033603164398883042",
+          "announcer": "lydiahallie"
+        }
+      ]
+    },
+    {
       "date": "2026-03-17",
       "features": [
         {
@@ -499,6 +514,13 @@
           "category": "claude-ai",
           "announcer": "felixrieseberg",
           "tweetUrl": "https://x.com/felixrieseberg/status/2034005731457044577"
+        },
+        {
+          "name": "1M Opus on Desktop",
+          "icon": "🖥️",
+          "category": "desktop",
+          "tweetUrl": "https://x.com/amorriscode/status/2033998163074551961",
+          "announcer": "amorriscode"
         }
       ]
     },
@@ -761,6 +783,25 @@
           "category": "claude-code",
           "announcer": "amorriscode",
           "tweetUrl": "https://x.com/amorriscode/status/2037256649405337715"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "features": [
+        {
+          "name": "CC PowerShell Support",
+          "icon": "💻",
+          "category": "claude-code",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2037591709765545985",
+          "announcer": "felixrieseberg"
+        },
+        {
+          "name": "CC Hook Conditionals",
+          "icon": "🔧",
+          "category": "claude-code",
+          "tweetUrl": "https://x.com/lydiahallie/status/2037573738670297583",
+          "announcer": "lydiahallie"
         }
       ]
     }
