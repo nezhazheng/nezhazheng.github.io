@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-03-30T02:48:04.823Z"
+    "lastUpdated": "2026-03-30T20:16:32.156Z"
   },
   "releases": [
     {
@@ -821,6 +821,13 @@
           "announcer": "noahzweben",
           "tweetUrl": "https://x.com/noahzweben/status/2038444046109315553",
           "category": "claude-ai"
+        },
+        {
+          "name": "CC Computer Use GA",
+          "icon": "🖥️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2038663014098899416",
+          "category": "claude-code"
         }
       ]
     }
