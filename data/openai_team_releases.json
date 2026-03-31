@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-03-28T12:00:00Z"
+    "lastUpdated": "2026-03-31T03:34:07.676Z"
   },
   "releases": [
     {
@@ -436,6 +436,25 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2037658411853390141",
           "category": "api"
+        },
+        {
+          "name": "Codex Raycast Theme",
+          "icon": "🎨",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2037552817385467967",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "features": [
+        {
+          "name": "Codex Plugin for Claude Code",
+          "icon": "🔌",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2038670330257109461",
+          "category": "codex"
         }
       ]
     }
