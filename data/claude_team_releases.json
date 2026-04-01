@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-03-30T20:16:32.156Z"
+    "lastUpdated": "2026-04-01T12:16:35.525Z"
   },
   "releases": [
     {
@@ -827,6 +827,18 @@
           "icon": "🖥️",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2038663014098899416",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "features": [
+        {
+          "name": "CC /buddy",
+          "icon": "🤝",
+          "announcer": "trq212",
+          "tweetUrl": "https://x.com/trq212/status/2039201498996035924",
           "category": "claude-code"
         }
       ]
