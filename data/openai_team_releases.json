@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-03-31T03:34:07.676Z"
+    "lastUpdated": "2026-04-01T04:16:09.297Z"
   },
   "releases": [
     {
@@ -454,6 +454,18 @@
           "icon": "🔌",
           "announcer": "dkundel",
           "tweetUrl": "https://x.com/dkundel/status/2038670330257109461",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "features": [
+        {
+          "name": "Codex GitHub Plugin",
+          "icon": "🐙",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2039118568252707144",
           "category": "codex"
         }
       ]
