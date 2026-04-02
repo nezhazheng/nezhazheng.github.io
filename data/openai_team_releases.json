@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-01T04:16:09.297Z"
+    "lastUpdated": "2026-04-02T04:16:31.993Z"
   },
   "releases": [
     {
@@ -466,6 +466,18 @@
           "icon": "🐙",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2039118568252707144",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "features": [
+        {
+          "name": "Codex Linear Plugin",
+          "icon": "📋",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2039482146369458526",
           "category": "codex"
         }
       ]
