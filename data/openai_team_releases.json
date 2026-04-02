@@ -281,13 +281,6 @@
           "category": "codex",
           "tweetUrl": "https://x.com/embirico/status/2029727991694250474",
           "announcer": "embirico"
-        },
-        {
-          "name": "Codex Security",
-          "icon": "🔒",
-          "announcer": "OpenAI",
-          "tweetUrl": "https://x.com/OpenAI/status/2029985250512920743",
-          "category": "codex"
         }
       ]
     },
@@ -364,13 +357,6 @@
           "category": "api",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2033953815834333608",
           "announcer": "OpenAIDevs"
-        },
-        {
-          "name": "GPT-5.4 mini",
-          "icon": "🧠",
-          "announcer": "OpenAI",
-          "tweetUrl": "https://x.com/OpenAI/status/2033953592424731072",
-          "category": "api"
         }
       ]
     },

@@ -705,13 +705,6 @@
           "category": "claude-code",
           "announcer": "noahzweben",
           "tweetUrl": "https://x.com/noahzweben/status/2036228890717462785"
-        },
-        {
-          "name": "Computer Use in Cowork",
-          "icon": "🖥️",
-          "announcer": "claudeai",
-          "tweetUrl": "https://x.com/claudeai/status/2036195797881028970",
-          "category": "claude-ai"
         }
       ]
     },
