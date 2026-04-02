@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-01T12:16:35.525Z"
+    "lastUpdated": "2026-04-02T00:16:21.231Z"
   },
   "releases": [
     {
@@ -840,6 +840,20 @@
           "announcer": "trq212",
           "tweetUrl": "https://x.com/trq212/status/2039201498996035924",
           "category": "claude-code"
+        },
+        {
+          "name": "CC NO_FLICKER Mode",
+          "icon": "⚡",
+          "announcer": "bcherny",
+          "tweetUrl": "https://x.com/bcherny/status/2039421575422980329",
+          "category": "claude-code"
+        },
+        {
+          "name": "Dispatch Permission Mode",
+          "icon": "🔐",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2039407002913513477",
+          "category": "claude-ai"
         }
       ]
     }
