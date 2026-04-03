@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-02T08:26:09.872Z"
+    "lastUpdated": "2026-04-03T04:18:40.691Z"
   },
   "releases": [
     {
@@ -478,6 +478,18 @@
           "icon": "📋",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2039482146369458526",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "features": [
+        {
+          "name": "Codex Flexible Team Pricing",
+          "icon": "💰",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2039794643513295328",
           "category": "codex"
         }
       ]
