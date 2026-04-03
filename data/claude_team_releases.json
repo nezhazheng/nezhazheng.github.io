@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-02T08:22:27.802Z"
+    "lastUpdated": "2026-04-03T08:16:21.261Z"
   },
   "releases": [
     {
@@ -861,6 +861,18 @@
           "announcer": "noahzweben",
           "tweetUrl": "https://x.com/noahzweben/status/2039407002913513477",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "features": [
+        {
+          "name": "Computer Use on Windows",
+          "icon": "🖱️",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2039849796740235283",
+          "category": "desktop"
         }
       ]
     }
