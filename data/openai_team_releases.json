@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-03T04:18:40.691Z"
+    "lastUpdated": "2026-04-07T01:53:42.033Z"
   },
   "releases": [
     {
@@ -490,6 +490,18 @@
           "icon": "💰",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2039794643513295328",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "features": [
+        {
+          "name": "Codex Vercel Plugin",
+          "icon": "🚀",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2040443885374304639",
           "category": "codex"
         }
       ]
