@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-03T08:16:21.261Z"
+    "lastUpdated": "2026-04-08T00:17:06.123Z"
   },
   "releases": [
     {
@@ -873,6 +873,18 @@
           "announcer": "felixrieseberg",
           "tweetUrl": "https://x.com/felixrieseberg/status/2039849796740235283",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-07",
+      "features": [
+        {
+          "name": "Claude Mythos Preview",
+          "icon": "🔐",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2041586309966524919",
+          "category": "api"
         }
       ]
     }
