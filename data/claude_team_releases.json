@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-08T04:21:18.799Z"
+    "lastUpdated": "2026-04-08T20:17:57.574Z"
   },
   "releases": [
     {
@@ -892,6 +892,18 @@
           "announcer": "noahzweben",
           "tweetUrl": "https://x.com/noahzweben/status/2041654973491245509",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-08",
+      "features": [
+        {
+          "name": "Claude Managed Agents",
+          "icon": "🤖",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2041927687460024721",
+          "category": "api"
         }
       ]
     }
