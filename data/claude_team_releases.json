@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-08T20:17:57.574Z"
+    "lastUpdated": "2026-04-09T20:16:42.324Z"
   },
   "releases": [
     {
@@ -903,6 +903,23 @@
           "icon": "🤖",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2041927687460024721",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "features": [
+        {
+          "name": "Claude Cowork GA",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/claudeai/status/2042273755485888810",
+          "category": "desktop"
+        },
+        {
+          "name": "Advisor Strategy API (Beta)",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/claudeai/status/2042308622181339453",
           "category": "api"
         }
       ]
