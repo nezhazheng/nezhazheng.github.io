@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-07T01:53:42.033Z"
+    "lastUpdated": "2026-04-14T06:22:59.902Z"
   },
   "releases": [
     {
@@ -503,6 +503,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2040443885374304639",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "features": [
+        {
+          "name": "GPT-5.4-Pro on chat.com",
+          "icon": "🧠",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2043178598136516698",
+          "category": "chatgpt"
         }
       ]
     }
