@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-14T06:08:26.119Z"
+    "lastUpdated": "2026-04-14T20:16:41.919Z"
   },
   "releases": [
     {
@@ -967,6 +967,25 @@
           "icon": "📦",
           "tweetUrl": "https://x.com/trq212/status/2043138221836746762",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "features": [
+        {
+          "name": "CC Routines",
+          "icon": "🔄",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2044095086460309790",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Desktop Redesign",
+          "icon": "🖥️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2044131493966909862",
+          "category": "desktop"
         }
       ]
     }
