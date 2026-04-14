@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-10T00:16:57.866Z"
+    "lastUpdated": "2026-04-14T06:08:26.119Z"
   },
   "releases": [
     {
@@ -932,6 +932,40 @@
           "name": "Claude Code Monitor Tool",
           "icon": "📦",
           "tweetUrl": "https://x.com/noahzweben/status/2042332268450963774",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "features": [
+        {
+          "name": "Claude for Word Beta",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/claudeai/status/2042670341915295865",
+          "category": "other"
+        },
+        {
+          "name": "Claude Code /ultraplan",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/trq212/status/2042671370186973589",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Code Dynamic /loop",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/noahzweben/status/2042670949003153647",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "features": [
+        {
+          "name": "Claude Code TurboTax Connector",
+          "icon": "📦",
+          "tweetUrl": "https://x.com/trq212/status/2043138221836746762",
           "category": "claude-code"
         }
       ]
