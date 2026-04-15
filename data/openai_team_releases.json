@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-14T06:22:59.902Z"
+    "lastUpdated": "2026-04-15T00:17:05.928Z"
   },
   "releases": [
     {
@@ -515,6 +515,18 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2043178598136516698",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "features": [
+        {
+          "name": "GPT-5.4-Cyber",
+          "icon": "🛡️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2044161906936791179",
+          "category": "api"
         }
       ]
     }
