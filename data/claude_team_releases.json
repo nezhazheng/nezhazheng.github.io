@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-14T20:16:41.919Z"
+    "lastUpdated": "2026-04-15T06:58:56.509Z"
   },
   "releases": [
     {
@@ -986,6 +986,13 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2044131493966909862",
           "category": "desktop"
+        },
+        {
+          "name": "CC Desktop 重构",
+          "icon": "🚀",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2044131493966909862",
+          "category": "claude-code"
         }
       ]
     }
