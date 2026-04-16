@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-16T09:24:41.394Z"
+    "lastUpdated": "2026-04-16T20:17:01.992Z"
   },
   "releases": [
     {
@@ -546,6 +546,25 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2044466699785920937",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "features": [
+        {
+          "name": "Codex Computer Use",
+          "icon": "🖥️",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2044858862042591378",
+          "category": "codex"
+        },
+        {
+          "name": "Codex In-App Browser",
+          "icon": "🌐",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2044858863246323811",
+          "category": "codex"
         }
       ]
     }
