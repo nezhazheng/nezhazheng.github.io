@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-16T08:17:35.894Z"
+    "lastUpdated": "2026-04-16T09:24:41.394Z"
   },
   "releases": [
     {
@@ -539,6 +539,13 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2044591035532378511",
           "category": "codex"
+        },
+        {
+          "name": "Agents SDK New Capabilities",
+          "icon": "🤖",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2044466699785920937",
+          "category": "api"
         }
       ]
     }
