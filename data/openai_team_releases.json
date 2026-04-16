@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-15T00:17:05.928Z"
+    "lastUpdated": "2026-04-16T08:17:35.894Z"
   },
   "releases": [
     {
@@ -527,6 +527,18 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2044161906936791179",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "features": [
+        {
+          "name": "Codex /compact",
+          "icon": "🗜️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2044591035532378511",
+          "category": "codex"
         }
       ]
     }
