@@ -565,13 +565,6 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2044858863246323811",
           "category": "codex"
-        },
-        {
-          "name": "Codex Open Source",
-          "icon": "🔓",
-          "announcer": "gdb",
-          "tweetUrl": "https://x.com/gdb/status/2045214436689072136",
-          "category": "codex"
         }
       ]
     }
