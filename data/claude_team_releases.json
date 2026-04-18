@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-17T01:43:22.952Z"
+    "lastUpdated": "2026-04-18T02:27:29.418Z"
   },
   "releases": [
     {
@@ -1025,6 +1025,32 @@
           "icon": "🔍",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2044785266590622185",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "features": [
+        {
+          "name": "Claude Design",
+          "icon": "🎨",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2045156267690213649",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Claude for Word",
+          "icon": "📝",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2045222254699511855",
+          "category": "claude-ai"
+        },
+        {
+          "name": "CC Skip All Permissions",
+          "icon": "🔓",
+          "announcer": "felixrieseberg",
+          "tweetUrl": "https://x.com/felixrieseberg/status/2045211232534474959",
           "category": "claude-code"
         }
       ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-16T20:17:01.992Z"
+    "lastUpdated": "2026-04-18T02:27:30.621Z"
   },
   "releases": [
     {
@@ -564,6 +564,13 @@
           "icon": "🌐",
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2044858863246323811",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Open Source",
+          "icon": "🔓",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2045214436689072136",
           "category": "codex"
         }
       ]
