@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-18T02:27:29.418Z"
+    "lastUpdated": "2026-04-21T01:49:23.313Z"
   },
   "releases": [
     {
@@ -1052,6 +1052,18 @@
           "announcer": "felixrieseberg",
           "tweetUrl": "https://x.com/felixrieseberg/status/2045211232534474959",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "features": [
+        {
+          "name": "Cowork Live Artifacts",
+          "icon": "📊",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2046328619249684989",
+          "category": "claude-ai"
         }
       ]
     }
