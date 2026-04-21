@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-21T01:49:24.582Z"
+    "lastUpdated": "2026-04-21T20:17:08.483Z"
   },
   "releases": [
     {
@@ -577,6 +577,13 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2046291546325369065",
           "category": "codex"
+        },
+        {
+          "name": "ChatGPT Images 2.0",
+          "icon": "🖼️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2046589828918317155",
+          "category": "chatgpt"
         }
       ]
     }
