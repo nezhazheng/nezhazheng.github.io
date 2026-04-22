@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-21T20:17:08.483Z"
+    "lastUpdated": "2026-04-22T20:38:14.765Z"
   },
   "releases": [
     {
@@ -583,6 +583,18 @@
           "icon": "🖼️",
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2046589828918317155",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "features": [
+        {
+          "name": "ChatGPT Workspace Agents",
+          "icon": "🤝",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2047008987665809771",
           "category": "chatgpt"
         }
       ]
