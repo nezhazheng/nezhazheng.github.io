@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-22T20:38:14.765Z"
+    "lastUpdated": "2026-04-23T20:38:35.779Z"
   },
   "releases": [
     {
@@ -596,6 +596,25 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2047008987665809771",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "features": [
+        {
+          "name": "GPT-5.5",
+          "icon": "🤖",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2047378253313106112",
+          "category": "api"
+        },
+        {
+          "name": "Codex Browser Use & More",
+          "icon": "💻",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2047387017974337611",
+          "category": "codex"
         }
       ]
     }
