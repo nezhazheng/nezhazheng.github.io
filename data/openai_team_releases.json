@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-27T02:06:03.170Z"
+    "lastUpdated": "2026-04-27T20:16:36.464Z"
   },
   "releases": [
     {
@@ -627,6 +627,18 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2047787124846653895",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "features": [
+        {
+          "name": "Symphony",
+          "icon": "🎵",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2048825010371039648",
+          "category": "codex"
         }
       ]
     }
