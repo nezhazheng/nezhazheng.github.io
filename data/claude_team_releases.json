@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-24T00:16:17.906Z"
+    "lastUpdated": "2026-04-27T01:47:13.906Z"
   },
   "releases": [
     {
@@ -1076,6 +1076,25 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2047421844311949513",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "features": [
+        {
+          "name": "CC Routines GitHub Trigger",
+          "icon": "🔗",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2047726586536091952",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Desktop File Pane",
+          "icon": "📁",
+          "announcer": "amorriscode",
+          "tweetUrl": "https://x.com/amorriscode/status/2047719852509659358",
+          "category": "desktop"
         }
       ]
     }
