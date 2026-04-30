@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-30T00:16:51.792Z"
+    "lastUpdated": "2026-04-30T08:17:32.375Z"
   },
   "releases": [
     {
@@ -638,6 +638,13 @@
           "icon": "⚙️",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2049595890395152728",
+          "category": "api"
+        },
+        {
+          "name": "GPT-5.5-Cyber",
+          "icon": "🔐",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2049712078836170843",
           "category": "api"
         }
       ]
