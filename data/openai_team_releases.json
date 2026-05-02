@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-04-30T08:17:32.375Z"
+    "lastUpdated": "2026-05-02T08:18:56.793Z"
   },
   "releases": [
     {
@@ -646,6 +646,39 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2049712078836170843",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "features": [
+        {
+          "name": "Codex Pets",
+          "icon": "🐾",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2050275713824211041",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Ralph Loop",
+          "icon": "🔁",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2050194039077495089",
+          "category": "codex"
+        },
+        {
+          "name": "OpenClaw ChatGPT Sign-In",
+          "icon": "🦞",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2050357911915028689",
+          "category": "codex"
+        },
+        {
+          "name": "Advanced Account Security",
+          "icon": "🔐",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2049902506881462613",
+          "category": "chatgpt"
         }
       ]
     }
