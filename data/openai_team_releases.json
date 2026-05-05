@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-02T08:18:56.793Z"
+    "lastUpdated": "2026-05-05T12:46:38.332Z"
   },
   "releases": [
     {
@@ -679,6 +679,25 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2049902506881462613",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "features": [
+        {
+          "name": "WebRTC Stack Rebuilt for Voice AI",
+          "icon": "🚀",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2051453905343828350",
+          "category": "other"
+        },
+        {
+          "name": "Crabbox 0.5.0",
+          "icon": "🦀",
+          "announcer": "steipete",
+          "tweetUrl": "https://x.com/steipete/status/2051485798613111116",
+          "category": "other"
         }
       ]
     }
