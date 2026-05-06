@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-05T12:46:38.332Z"
+    "lastUpdated": "2026-05-06T04:39:01.540Z"
   },
   "releases": [
     {
@@ -698,6 +698,13 @@
           "announcer": "steipete",
           "tweetUrl": "https://x.com/steipete/status/2051485798613111116",
           "category": "other"
+        },
+        {
+          "name": "GPT-5.5 Instant",
+          "icon": "🚀",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2051709028250915275",
+          "category": "api"
         }
       ]
     }
