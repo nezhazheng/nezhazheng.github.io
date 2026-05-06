@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-04-27T01:47:13.906Z"
+    "lastUpdated": "2026-05-06T04:35:23.594Z"
   },
   "releases": [
     {
@@ -1095,6 +1095,18 @@
           "announcer": "amorriscode",
           "tweetUrl": "https://x.com/amorriscode/status/2047719852509659358",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "features": [
+        {
+          "name": "Financial Services Agent Templates",
+          "icon": "💼",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2051679629488865498",
+          "category": "claude-ai"
         }
       ]
     }
