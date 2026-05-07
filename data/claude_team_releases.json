@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-06T04:35:23.594Z"
+    "lastUpdated": "2026-05-07T12:38:51.546Z"
   },
   "releases": [
     {
@@ -1107,6 +1107,32 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2051679629488865498",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "features": [
+        {
+          "name": "CC Rate Limits Doubled",
+          "icon": "📈",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2052060693269008586",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Desktop Preview",
+          "icon": "🖥️",
+          "announcer": "amorriscode",
+          "tweetUrl": "https://x.com/amorriscode/status/2052065351673033079",
+          "category": "claude-code"
+        },
+        {
+          "name": "Managed Agents Suite",
+          "icon": "🤖",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2052067399088664981",
+          "category": "api"
         }
       ]
     }
