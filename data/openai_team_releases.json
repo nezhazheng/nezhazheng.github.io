@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-06T04:39:01.540Z"
+    "lastUpdated": "2026-05-07T12:40:52.743Z"
   },
   "releases": [
     {
@@ -704,6 +704,25 @@
           "icon": "🚀",
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2051709028250915275",
+          "category": "api"
+        },
+        {
+          "name": "ChatGPT Memory Sources",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2051709033414025647",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "features": [
+        {
+          "name": "MRC Networking Protocol",
+          "icon": "🔗",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2052025532485902368",
           "category": "api"
         }
       ]
