@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-07T12:40:52.743Z"
+    "lastUpdated": "2026-05-07T20:16:40.161Z"
   },
   "releases": [
     {
@@ -723,6 +723,25 @@
           "icon": "🔗",
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2052025532485902368",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "features": [
+        {
+          "name": "GPT-Realtime-2",
+          "icon": "🎙️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2052438194625593804",
+          "category": "api"
+        },
+        {
+          "name": "GPT-Realtime-Translate",
+          "icon": "🌐",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2052438196454379986",
           "category": "api"
         }
       ]
