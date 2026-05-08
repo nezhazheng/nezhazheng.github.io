@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-07T20:16:40.161Z"
+    "lastUpdated": "2026-05-08T00:27:52.149Z"
   },
   "releases": [
     {
@@ -743,6 +743,13 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2052438196454379986",
           "category": "api"
+        },
+        {
+          "name": "Codex Chrome Tabs",
+          "icon": "🌐",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2052525058325647693",
+          "category": "codex"
         }
       ]
     }
