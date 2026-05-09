@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-07T12:38:51.546Z"
+    "lastUpdated": "2026-05-09T07:43:05.830Z"
   },
   "releases": [
     {
@@ -1099,6 +1099,18 @@
       ]
     },
     {
+      "date": "2026-04-30",
+      "features": [
+        {
+          "name": "Claude Security Public Beta",
+          "icon": "🛡️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2049898739783897537",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
       "date": "2026-05-05",
       "features": [
         {
@@ -1114,13 +1126,6 @@
       "date": "2026-05-06",
       "features": [
         {
-          "name": "CC Rate Limits Doubled",
-          "icon": "📈",
-          "announcer": "claudeai",
-          "tweetUrl": "https://x.com/claudeai/status/2052060693269008586",
-          "category": "claude-code"
-        },
-        {
           "name": "CC Desktop Preview",
           "icon": "🖥️",
           "announcer": "amorriscode",
@@ -1128,11 +1133,37 @@
           "category": "claude-code"
         },
         {
-          "name": "Managed Agents Suite",
-          "icon": "🤖",
+          "name": "Dreaming",
+          "icon": "🌙",
           "announcer": "claudeai",
-          "tweetUrl": "https://x.com/claudeai/status/2052067399088664981",
+          "tweetUrl": "https://x.com/claudeai/status/2052067400690851842",
           "category": "api"
+        },
+        {
+          "name": "Multiagent Orchestration",
+          "icon": "🧩",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2052067404696473833",
+          "category": "api"
+        },
+        {
+          "name": "Outcomes",
+          "icon": "🎯",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2052067403228455419",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "features": [
+        {
+          "name": "Claude for Microsoft 365",
+          "icon": "📊",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2052445786651168849",
+          "category": "claude-ai"
         }
       ]
     }
