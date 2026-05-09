@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-09T08:03:43.343Z"
+    "lastUpdated": "2026-05-09T08:17:46.947Z"
   },
   "releases": [
     {
@@ -723,13 +723,6 @@
           "icon": "🚀",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2051453905343828350",
-          "category": "other"
-        },
-        {
-          "name": "Crabbox 0.5.0",
-          "icon": "🦀",
-          "announcer": "steipete",
-          "tweetUrl": "https://x.com/steipete/status/2051485798613111116",
           "category": "other"
         },
         {
