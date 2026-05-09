@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-08T00:27:52.149Z"
+    "lastUpdated": "2026-05-09T08:03:43.343Z"
   },
   "releases": [
     {
@@ -646,6 +646,13 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2049712078836170843",
           "category": "api"
+        },
+        {
+          "name": "Chronicle",
+          "icon": "📜",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2049844703793688991",
+          "category": "codex"
         }
       ]
     },
@@ -679,6 +686,32 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2049902506881462613",
           "category": "chatgpt"
+        },
+        {
+          "name": "Codex for Everyone",
+          "icon": "🌐",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2049928776147230886",
+          "category": "codex"
+        },
+        {
+          "name": "Codex /goal",
+          "icon": "🎯",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2049941863877206223",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "features": [
+        {
+          "name": "Codex Migration",
+          "icon": "🔀",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2050290618187055175",
+          "category": "codex"
         }
       ]
     },
@@ -724,6 +757,13 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2052025532485902368",
           "category": "api"
+        },
+        {
+          "name": "Sandbox Agents (TypeScript)",
+          "icon": "🧪",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2051695843955384407",
+          "category": "api"
         }
       ]
     },
@@ -750,6 +790,20 @@
           "announcer": "gdb",
           "tweetUrl": "https://x.com/gdb/status/2052525058325647693",
           "category": "codex"
+        },
+        {
+          "name": "GPT-Realtime-Whisper",
+          "icon": "🎙️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2052440957258489859",
+          "category": "api"
+        },
+        {
+          "name": "OpenAI CLI",
+          "icon": "⌨️",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2052517308896285044",
+          "category": "api"
         }
       ]
     }
