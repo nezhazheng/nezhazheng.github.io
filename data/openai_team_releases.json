@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-13T00:25:09.954Z"
+    "lastUpdated": "2026-05-13T08:17:33.601Z"
   },
   "releases": [
     {
@@ -815,6 +815,18 @@
           "icon": "🔌",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2053925962287583379",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "features": [
+        {
+          "name": "Codex Browser Improvements",
+          "icon": "🌐",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2054398093886673260",
           "category": "codex"
         }
       ]
