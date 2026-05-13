@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-09T08:17:46.947Z"
+    "lastUpdated": "2026-05-13T00:25:09.954Z"
   },
   "releases": [
     {
@@ -797,6 +797,25 @@
           "announcer": "dkundel",
           "tweetUrl": "https://x.com/dkundel/status/2052517308896285044",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "features": [
+        {
+          "name": "Daybreak",
+          "icon": "🛡️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2053939702110269822",
+          "category": "other"
+        },
+        {
+          "name": "Codex OpenAI Dev Plugin",
+          "icon": "🔌",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2053925962287583379",
+          "category": "codex"
         }
       ]
     }

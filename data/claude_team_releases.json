@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-11T08:22:22.292Z"
+    "lastUpdated": "2026-05-13T00:24:59.099Z"
   },
   "releases": [
     {
@@ -1176,6 +1176,25 @@
           "announcer": "dickson_tsai",
           "tweetUrl": "https://x.com/dickson_tsai/status/2053556154576650266",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "features": [
+        {
+          "name": "Agent View",
+          "icon": "📋",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2053940934736228454",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Platform on AWS",
+          "icon": "☁️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2053868592286822443",
+          "category": "api"
         }
       ]
     }
