@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-13T08:17:33.601Z"
+    "lastUpdated": "2026-05-15T00:17:03.790Z"
   },
   "releases": [
     {
@@ -828,6 +828,18 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2054398093886673260",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "features": [
+        {
+          "name": "Codex Mobile App",
+          "icon": "📱",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2055034461591588916",
+          "category": "chatgpt"
         }
       ]
     }
