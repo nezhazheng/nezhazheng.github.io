@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-15T00:17:03.790Z"
+    "lastUpdated": "2026-05-16T04:23:44.603Z"
   },
   "releases": [
     {
@@ -839,6 +839,18 @@
           "icon": "📱",
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2055034461591588916",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "features": [
+        {
+          "name": "ChatGPT Personal Finance",
+          "icon": "💰",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2055335361921130861",
           "category": "chatgpt"
         }
       ]
