@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-16T04:23:44.603Z"
+    "lastUpdated": "2026-05-17T00:27:02.017Z"
   },
   "releases": [
     {
@@ -852,6 +852,46 @@
           "announcer": "gdb",
           "tweetUrl": "https://x.com/gdb/status/2055335361921130861",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "features": [
+        {
+          "name": "Codex Customizable Shortcuts",
+          "icon": "⌨️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2055717793841221796",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Git Actions Flow",
+          "icon": "🔀",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2055717859058495596",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Thread Panel Improvements",
+          "icon": "📋",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2055717927064846802",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Local Server List Cleanup",
+          "icon": "🖥️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2055717993460732191",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Performance Improvements",
+          "icon": "⚡",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2055718005309575431",
+          "category": "codex"
         }
       ]
     }
