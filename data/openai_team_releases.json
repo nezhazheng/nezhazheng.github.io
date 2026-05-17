@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-17T00:27:02.017Z"
+    "lastUpdated": "2026-05-17T12:29:45.955Z"
   },
   "releases": [
     {
@@ -892,6 +892,13 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2055718005309575431",
           "category": "codex"
+        },
+        {
+          "name": "ChatGPT Plus Malta Access",
+          "icon": "🌍",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2055774659379908926",
+          "category": "chatgpt"
         }
       ]
     }
