@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-13T00:24:59.099Z"
+    "lastUpdated": "2026-05-19T02:43:58.639Z"
   },
   "releases": [
     {
@@ -1195,6 +1195,18 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2053868592286822443",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "features": [
+        {
+          "name": "Claude Design Token Limits Doubled",
+          "icon": "🎨",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2056460045756309820",
+          "category": "claude-ai"
         }
       ]
     }
