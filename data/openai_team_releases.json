@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-19T02:43:58.608Z"
+    "lastUpdated": "2026-05-21T04:18:17.152Z"
   },
   "releases": [
     {
@@ -922,6 +922,18 @@
           "icon": "🖥️",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2056442456800141424",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "features": [
+        {
+          "name": "Codex on ChatGPT Mobile",
+          "icon": "📱",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2057142816497906045",
           "category": "codex"
         }
       ]
