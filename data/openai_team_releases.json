@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-21T04:18:17.152Z"
+    "lastUpdated": "2026-05-21T20:17:50.951Z"
   },
   "releases": [
     {
@@ -934,6 +934,18 @@
           "icon": "📱",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2057142816497906045",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "features": [
+        {
+          "name": "Codex Enterprise Features",
+          "icon": "🏢",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2057549563494650223",
           "category": "codex"
         }
       ]
