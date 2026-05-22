@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-21T20:17:50.951Z"
+    "lastUpdated": "2026-05-22T04:18:03.377Z"
   },
   "releases": [
     {
@@ -946,6 +946,39 @@
           "icon": "🏢",
           "announcer": "gdb",
           "tweetUrl": "https://x.com/gdb/status/2057549563494650223",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "features": [
+        {
+          "name": "Codex Mac Locked Use",
+          "icon": "🔒",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2057617844800794878",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Appshots",
+          "icon": "📸",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2057617846449197480",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Goal Mode",
+          "icon": "🎯",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2057617860986593680",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Advanced Annotation",
+          "icon": "✏️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2057617862479708650",
           "category": "codex"
         }
       ]
