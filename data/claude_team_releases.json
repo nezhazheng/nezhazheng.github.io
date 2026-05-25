@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-19T02:43:58.639Z"
+    "lastUpdated": "2026-05-25T02:11:15.464Z"
   },
   "releases": [
     {
@@ -1207,6 +1207,18 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2056460045756309820",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "features": [
+        {
+          "name": "CC Desktop Session Windows",
+          "icon": "🪟",
+          "announcer": "amorriscode",
+          "tweetUrl": "https://x.com/amorriscode/status/2057953766876614959",
+          "category": "claude-code"
         }
       ]
     }

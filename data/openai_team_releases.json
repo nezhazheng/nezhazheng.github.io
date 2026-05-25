@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-22T04:18:03.377Z"
+    "lastUpdated": "2026-05-25T02:13:22.810Z"
   },
   "releases": [
     {
@@ -980,6 +980,20 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2057617862479708650",
           "category": "codex"
+        },
+        {
+          "name": "Codex Diff Markers Setting",
+          "icon": "📊",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2057918624841728349",
+          "category": "codex"
+        },
+        {
+          "name": "ChatGPT Form Fill Voice",
+          "icon": "📋",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2057908052968521902",
+          "category": "chatgpt"
         }
       ]
     }
