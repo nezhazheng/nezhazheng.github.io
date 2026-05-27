@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-25T02:13:22.810Z"
+    "lastUpdated": "2026-05-27T20:16:42.578Z"
   },
   "releases": [
     {
@@ -994,6 +994,32 @@
           "announcer": "ChatGPTapp",
           "tweetUrl": "https://x.com/ChatGPTapp/status/2057908052968521902",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "features": [
+        {
+          "name": "OpenAI Admin API Expansion",
+          "icon": "🔧",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2059703665276145920",
+          "category": "api"
+        },
+        {
+          "name": "Workload Identity Federation",
+          "icon": "🔐",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2059703600662925635",
+          "category": "api"
+        },
+        {
+          "name": "OpenAI Private MCP Servers",
+          "icon": "🔒",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2059703536825565499",
+          "category": "api"
         }
       ]
     }
