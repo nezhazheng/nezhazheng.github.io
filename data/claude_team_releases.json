@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-25T02:11:15.464Z"
+    "lastUpdated": "2026-05-28T20:17:44.103Z"
   },
   "releases": [
     {
@@ -1218,6 +1218,46 @@
           "icon": "🪟",
           "announcer": "amorriscode",
           "tweetUrl": "https://x.com/amorriscode/status/2057953766876614959",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "features": [
+        {
+          "name": "Claude Opus 4.8",
+          "icon": "🧠",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2060042702150930686",
+          "category": "api"
+        },
+        {
+          "name": "Opus 4.8 Fast Mode",
+          "icon": "⚡",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2060042706844315866",
+          "category": "api"
+        },
+        {
+          "name": "CC Dynamic Workflows",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2060044853279617150",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC /effort ultracode",
+          "icon": "⚙️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2060044857339724158",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Claude API Migration",
+          "icon": "🔧",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2060043213600367030",
           "category": "claude-code"
         }
       ]
