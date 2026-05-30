@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-27T20:16:42.578Z"
+    "lastUpdated": "2026-05-30T04:19:56.213Z"
   },
   "releases": [
     {
@@ -1020,6 +1020,46 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2059703536825565499",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "features": [
+        {
+          "name": "Rosalind Biodefense",
+          "icon": "🧬",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2060376598642405492",
+          "category": "other"
+        },
+        {
+          "name": "Codex Windows Computer Use",
+          "icon": "🪟",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2060428604727771421",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Agent Identicons",
+          "icon": "🪪",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2060478367921831936",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Chat Search",
+          "icon": "🔍",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2060478379619676330",
+          "category": "codex"
+        },
+        {
+          "name": "ChatGPT Table of Contents",
+          "icon": "📑",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2060467129066070182",
+          "category": "chatgpt"
         }
       ]
     }
