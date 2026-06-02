@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-05-30T04:19:56.213Z"
+    "lastUpdated": "2026-06-02T00:19:07.919Z"
   },
   "releases": [
     {
@@ -1060,6 +1060,18 @@
           "announcer": "ChatGPTapp",
           "tweetUrl": "https://x.com/ChatGPTapp/status/2060467129066070182",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "features": [
+        {
+          "name": "OpenAI on Amazon Bedrock",
+          "icon": "☁️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2061564710173224985",
+          "category": "api"
         }
       ]
     }
