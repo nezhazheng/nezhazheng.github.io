@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-05-30T04:17:36.178Z"
+    "lastUpdated": "2026-06-02T20:17:08.363Z"
   },
   "releases": [
     {
@@ -1270,6 +1270,18 @@
           "icon": "💬",
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2060432688281251998",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "features": [
+        {
+          "name": "Claude Platform CLI",
+          "icon": "🛠️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2061877343078244459",
           "category": "api"
         }
       ]

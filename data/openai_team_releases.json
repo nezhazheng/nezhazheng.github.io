@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-02T00:19:07.919Z"
+    "lastUpdated": "2026-06-02T20:18:30.766Z"
   },
   "releases": [
     {
@@ -1072,6 +1072,25 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2061564710173224985",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "features": [
+        {
+          "name": "Codex Role Plugins",
+          "icon": "🔌",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2061887650391625870",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Sites",
+          "icon": "🌐",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2061845949170045346",
+          "category": "codex"
         }
       ]
     }
