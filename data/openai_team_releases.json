@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-04T00:18:35.166Z"
+    "lastUpdated": "2026-06-04T20:17:33.750Z"
   },
   "releases": [
     {
@@ -1103,6 +1103,25 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2062281977122996256",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "features": [
+        {
+          "name": "Moderation Scores in APIs",
+          "icon": "🛡️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062619558440267801",
+          "category": "api"
+        },
+        {
+          "name": "Codex Build iOS Apps",
+          "icon": "🍎",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062599291479478275",
+          "category": "codex"
         }
       ]
     }
