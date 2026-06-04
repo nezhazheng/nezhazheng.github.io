@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-02T20:18:30.766Z"
+    "lastUpdated": "2026-06-04T00:18:35.166Z"
   },
   "releases": [
     {
@@ -1091,6 +1091,18 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2061845949170045346",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "features": [
+        {
+          "name": "GPT-Rosalind New Capabilities",
+          "icon": "🧬",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2062281977122996256",
+          "category": "api"
         }
       ]
     }
