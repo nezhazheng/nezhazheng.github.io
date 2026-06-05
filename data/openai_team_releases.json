@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-04T20:17:33.750Z"
+    "lastUpdated": "2026-06-05T04:17:57.839Z"
   },
   "releases": [
     {
@@ -1121,6 +1121,18 @@
           "icon": "🍎",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2062599291479478275",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "features": [
+        {
+          "name": "Codex Python SDK",
+          "icon": "🐍",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2062734215494664697",
           "category": "codex"
         }
       ]
