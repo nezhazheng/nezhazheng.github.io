@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-05T04:17:57.839Z"
+    "lastUpdated": "2026-06-08T01:51:52.108Z"
   },
   "releases": [
     {
@@ -1133,6 +1133,48 @@
           "icon": "🐍",
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2062734215494664697",
+          "category": "codex"
+        },
+        {
+          "name": "ChatGPT Email Sending",
+          "icon": "✉️",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2062944254591430917",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Codex Settings Search",
+          "icon": "🔎",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062987643286438337",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Fullscreen Side Chats",
+          "icon": "💬",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062987718221861205",
+          "category": "codex"
+        },
+        {
+          "name": "Codex State Persistence",
+          "icon": "💾",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062987730448216067",
+          "category": "codex"
+        },
+        {
+          "name": "Codex App Polish",
+          "icon": "✨",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2062987742506872918",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Profile Share Cards",
+          "icon": "🪪",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2063043968028569609",
           "category": "codex"
         }
       ]
