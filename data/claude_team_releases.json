@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-09T16:16:51.320Z"
+    "lastUpdated": "2026-06-09T20:18:48.717Z"
   },
   "releases": [
     {
@@ -1295,6 +1295,27 @@
           "announcer": "bcherny",
           "tweetUrl": "https://x.com/bcherny/status/2064327225504403752",
           "category": "claude-code"
+        },
+        {
+          "name": "Claude Fable 5",
+          "icon": "🧠",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2064394919549210774",
+          "category": "api"
+        },
+        {
+          "name": "API Refusal Fallbacks",
+          "icon": "🛡️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2064428347678220691",
+          "category": "api"
+        },
+        {
+          "name": "SDK Refusal Middleware",
+          "icon": "🔁",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2064428351029449214",
+          "category": "api"
         }
       ]
     }

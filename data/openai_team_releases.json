@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-08T01:51:52.108Z"
+    "lastUpdated": "2026-06-09T20:22:44.648Z"
   },
   "releases": [
     {
@@ -1176,6 +1176,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2063043968028569609",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "features": [
+        {
+          "name": "Responses Image Search",
+          "icon": "🖼️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2064395155688616153",
+          "category": "api"
         }
       ]
     }
