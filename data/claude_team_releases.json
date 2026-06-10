@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-09T20:18:48.717Z"
+    "lastUpdated": "2026-06-10T20:16:42.028Z"
   },
   "releases": [
     {
@@ -1315,6 +1315,18 @@
           "icon": "🔁",
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2064428351029449214",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "features": [
+        {
+          "name": "Foundation Models Support",
+          "icon": "🍎",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2064756984617021807",
           "category": "api"
         }
       ]
