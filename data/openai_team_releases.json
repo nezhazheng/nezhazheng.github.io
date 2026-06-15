@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-09T20:22:44.648Z"
+    "lastUpdated": "2026-06-15T08:29:45.979Z"
   },
   "releases": [
     {
@@ -1187,6 +1187,32 @@
           "icon": "🖼️",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2064395155688616153",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "features": [
+        {
+          "name": "Codex Rate Limit Banking",
+          "icon": "🔋",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2065225362544726371",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Browser Developer Mode",
+          "icon": "🧰",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2065226355495895521",
+          "category": "codex"
+        },
+        {
+          "name": "Developer Docs Agent",
+          "icon": "📚",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2065507724704858173",
           "category": "api"
         }
       ]
