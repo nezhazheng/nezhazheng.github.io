@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-15T08:29:45.979Z"
+    "lastUpdated": "2026-06-16T20:31:10.406Z"
   },
   "releases": [
     {
@@ -1214,6 +1214,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2065507724704858173",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "features": [
+        {
+          "name": "Codex EU Expansion",
+          "icon": "🌍",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2066922584898490490",
+          "category": "codex"
         }
       ]
     }
