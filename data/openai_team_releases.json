@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-16T20:31:10.406Z"
+    "lastUpdated": "2026-06-22T04:31:21.397Z"
   },
   "releases": [
     {
@@ -1225,6 +1225,56 @@
           "icon": "🌍",
           "announcer": "dkundel",
           "tweetUrl": "https://x.com/dkundel/status/2066922584898490490",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "features": [
+        {
+          "name": "ChatGPT Scheduled Tasks",
+          "icon": "🗓️",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2067316960875168181",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "features": [
+        {
+          "name": "ChatGPT Health Intelligence",
+          "icon": "🩺",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2067672740539306261",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Codex Record & Replay",
+          "icon": "🎬",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2067681320281723113",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "features": [
+        {
+          "name": "Credit Usage Analytics",
+          "icon": "📊",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2067843106469515603",
+          "category": "other"
+        },
+        {
+          "name": "Codex Remote Handoff",
+          "icon": "🔁",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2068120572673077274",
           "category": "codex"
         }
       ]

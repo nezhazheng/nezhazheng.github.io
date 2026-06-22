@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-15T08:25:54.217Z"
+    "lastUpdated": "2026-06-22T04:26:42.435Z"
   },
   "releases": [
     {
@@ -1353,6 +1353,44 @@
           "icon": "🛠️",
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2065080010604740930",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "features": [
+        {
+          "name": "Claude Design Updates",
+          "icon": "🎨",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2067325887909884315",
+          "category": "claude-ai"
+        },
+        {
+          "name": "CC Design Sync",
+          "icon": "🔄",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2067325893001826552",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "features": [
+        {
+          "name": "MCP Enterprise Auth",
+          "icon": "🔐",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2067655887662272723",
+          "category": "api"
+        },
+        {
+          "name": "CC Artifacts",
+          "icon": "🧩",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2067671912038240487",
           "category": "claude-code"
         }
       ]
