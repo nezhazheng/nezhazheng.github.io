@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-22T04:31:21.397Z"
+    "lastUpdated": "2026-06-22T20:18:35.943Z"
   },
   "releases": [
     {
@@ -1275,6 +1275,18 @@
           "icon": "🔁",
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2068120572673077274",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "features": [
+        {
+          "name": "Codex Security Plugin",
+          "icon": "🔒",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2069104283824640023",
           "category": "codex"
         }
       ]
