@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-22T04:26:42.435Z"
+    "lastUpdated": "2026-06-24T00:19:00.205Z"
   },
   "releases": [
     {
@@ -1392,6 +1392,18 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2067671912038240487",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "features": [
+        {
+          "name": "Claude Tag",
+          "icon": "🏷️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2069468693017268244",
+          "category": "claude-ai"
         }
       ]
     }
