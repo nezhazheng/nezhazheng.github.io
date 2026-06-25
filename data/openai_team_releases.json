@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-22T20:18:35.943Z"
+    "lastUpdated": "2026-06-25T12:20:14.854Z"
   },
   "releases": [
     {
@@ -1288,6 +1288,25 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2069104283824640023",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "features": [
+        {
+          "name": "GPT-5.5 Instant",
+          "icon": "⚡",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2069843083701915755",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Jalapeño AI Chip",
+          "icon": "🌶️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2069770172802773292",
+          "category": "other"
         }
       ]
     }
