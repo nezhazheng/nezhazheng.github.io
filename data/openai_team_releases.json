@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-25T12:20:14.854Z"
+    "lastUpdated": "2026-06-26T00:17:44.703Z"
   },
   "releases": [
     {
@@ -1307,6 +1307,25 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2069770172802773292",
           "category": "other"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "features": [
+        {
+          "name": "Codex DigitalOcean Plugin",
+          "icon": "☁️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2070261549391024403",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Mobile Improvements",
+          "icon": "🛠️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2070254534606352727",
+          "category": "codex"
         }
       ]
     }
