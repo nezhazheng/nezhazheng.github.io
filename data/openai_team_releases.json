@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-28T00:18:01.652Z"
+    "lastUpdated": "2026-06-30T04:35:46.912Z"
   },
   "releases": [
     {
@@ -1349,6 +1349,18 @@
           "icon": "📋",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2070992443387031709",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "features": [
+        {
+          "name": "Codex Permission Profiles",
+          "icon": "🔒",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2071636285807059315",
           "category": "codex"
         }
       ]

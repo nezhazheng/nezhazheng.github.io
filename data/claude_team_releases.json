@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-24T00:19:00.205Z"
+    "lastUpdated": "2026-06-30T04:34:10.851Z"
   },
   "releases": [
     {
@@ -1404,6 +1404,18 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2069468693017268244",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "features": [
+        {
+          "name": "Claude in Microsoft Foundry",
+          "icon": "☁️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2071653958905467027",
+          "category": "api"
         }
       ]
     }
