@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-06-30T04:34:10.851Z"
+    "lastUpdated": "2026-07-01T04:19:47.075Z"
   },
   "releases": [
     {
@@ -1415,6 +1415,46 @@
           "icon": "☁️",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2071653958905467027",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "features": [
+        {
+          "name": "Claude Desktop Linux Beta",
+          "icon": "🐧",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2071988881717871065",
+          "category": "desktop"
+        },
+        {
+          "name": "Claude Science Beta",
+          "icon": "🔬",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2072002740830842899",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Claude Sonnet 5",
+          "icon": "🧠",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2072017450611142835",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agents Updates",
+          "icon": "🛠️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2072058428424589412",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agents Observability",
+          "icon": "📊",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2072058433097122145",
           "category": "api"
         }
       ]

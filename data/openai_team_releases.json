@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-06-30T04:35:46.912Z"
+    "lastUpdated": "2026-07-01T04:22:16.644Z"
   },
   "releases": [
     {
@@ -1362,6 +1362,30 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2071636285807059315",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "features": [
+        {
+          "name": "GeneBench-Pro",
+          "icon": "🧬",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2072004836674167294",
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "features": [
+        {
+          "name": "ChatGPT Personal Finance for Plus",
+          "icon": "💰",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2072113363543580690",
+          "category": "chatgpt"
         }
       ]
     }
