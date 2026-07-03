@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-01T04:19:47.075Z"
+    "lastUpdated": "2026-07-03T04:18:21.963Z"
   },
   "releases": [
     {
@@ -1456,6 +1456,25 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2072058433097122145",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "features": [
+        {
+          "name": "CC Artifacts Pro/Max",
+          "icon": "🧩",
+          "announcer": "bcherny",
+          "tweetUrl": "https://x.com/bcherny/status/2072777472970563995",
+          "category": "claude-code"
+        },
+        {
+          "name": "Fable 5 in Claude Tag",
+          "icon": "🏷️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2072725610061803522",
+          "category": "claude-ai"
         }
       ]
     }
