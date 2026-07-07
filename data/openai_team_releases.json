@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-01T04:22:16.644Z"
+    "lastUpdated": "2026-07-07T00:17:47.542Z"
   },
   "releases": [
     {
@@ -1386,6 +1386,25 @@
           "announcer": "gdb",
           "tweetUrl": "https://x.com/gdb/status/2072113363543580690",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "features": [
+        {
+          "name": "Realtime Latency Reduction",
+          "icon": "⚡",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2074255420831735824",
+          "category": "api"
+        },
+        {
+          "name": "GPT-Realtime-2.1-mini",
+          "icon": "🎙️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2074255408013955466",
+          "category": "api"
         }
       ]
     }
