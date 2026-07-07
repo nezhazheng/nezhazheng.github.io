@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-07T06:41:20.260Z"
+    "lastUpdated": "2026-07-07T20:23:21.531Z"
   },
   "releases": [
     {
@@ -1493,6 +1493,32 @@
           "icon": "🏷️",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2072725610061803522",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "features": [
+        {
+          "name": "Cowork Web and Mobile",
+          "icon": "📱",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2074525815820169320",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Offline Scheduled Tasks",
+          "icon": "⏰",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2074525817762164891",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Unified Chat and Cowork",
+          "icon": "🏠",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2074525819414647044",
           "category": "claude-ai"
         }
       ]
