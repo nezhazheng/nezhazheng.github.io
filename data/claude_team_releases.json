@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-07T20:23:21.531Z"
+    "lastUpdated": "2026-07-08T00:17:38.170Z"
   },
   "releases": [
     {
@@ -1520,6 +1520,13 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2074525819414647044",
           "category": "claude-ai"
+        },
+        {
+          "name": "Managed Agents Sub-Agents",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2074606065170456777",
+          "category": "api"
         }
       ]
     }
