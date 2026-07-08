@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-07T00:17:47.542Z"
+    "lastUpdated": "2026-07-08T20:21:12.551Z"
   },
   "releases": [
     {
@@ -1405,6 +1405,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2074255408013955466",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "features": [
+        {
+          "name": "GPT-Live Voice",
+          "icon": "🎙️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2074907025537224840",
+          "category": "chatgpt"
         }
       ]
     }
