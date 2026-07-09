@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-08T00:17:38.170Z"
+    "lastUpdated": "2026-07-09T00:17:36.420Z"
   },
   "releases": [
     {
@@ -1527,6 +1527,18 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2074606065170456777",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "features": [
+        {
+          "name": "CC /checkup",
+          "icon": "🩺",
+          "announcer": "bcherny",
+          "tweetUrl": "https://x.com/bcherny/status/2074997570317779038",
+          "category": "claude-code"
         }
       ]
     }
