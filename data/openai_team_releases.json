@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-08T20:21:12.551Z"
+    "lastUpdated": "2026-07-09T20:20:07.545Z"
   },
   "releases": [
     {
@@ -1417,6 +1417,74 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2074907025537224840",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "features": [
+        {
+          "name": "GPT-5.6 Family",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2075271421149020426",
+          "category": "api"
+        },
+        {
+          "name": "GPT-5.6 Ultra Mode",
+          "icon": "⚡",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2075271427079774451",
+          "category": "api"
+        },
+        {
+          "name": "ChatGPT Work",
+          "icon": "💼",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2075274271845404744",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT Desktop App",
+          "icon": "🖥️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075275868268789885",
+          "category": "desktop"
+        },
+        {
+          "name": "ChatGPT Chrome Extension",
+          "icon": "🌐",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075276009902112976",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Computer Use Power-Up",
+          "icon": "🖥️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075276074980884862",
+          "category": "codex"
+        },
+        {
+          "name": "Programmatic Tool Calling",
+          "icon": "🧰",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075274027434922130",
+          "category": "api"
+        },
+        {
+          "name": "Multi-Agent Responses API",
+          "icon": "🤖",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075274044828762164",
+          "category": "api"
+        },
+        {
+          "name": "Explicit Prompt Caching",
+          "icon": "🧊",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075274061941502143",
+          "category": "api"
         }
       ]
     }
