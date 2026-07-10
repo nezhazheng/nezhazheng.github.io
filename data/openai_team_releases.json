@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-09T20:20:07.545Z"
+    "lastUpdated": "2026-07-10T00:18:01.306Z"
   },
   "releases": [
     {
@@ -1485,6 +1485,20 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2075274061941502143",
           "category": "api"
+        },
+        {
+          "name": "Sites Pro/Plus Beta",
+          "icon": "🌐",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2075337081304522853",
+          "category": "codex"
+        },
+        {
+          "name": "Unified Plugin Directory",
+          "icon": "🔌",
+          "announcer": "jxnlco",
+          "tweetUrl": "https://x.com/jxnlco/status/2075331692966170901",
+          "category": "codex"
         }
       ]
     }
