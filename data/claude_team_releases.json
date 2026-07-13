@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-09T00:17:36.420Z"
+    "lastUpdated": "2026-07-13T08:26:44.663Z"
   },
   "releases": [
     {
@@ -1539,6 +1539,18 @@
           "announcer": "bcherny",
           "tweetUrl": "https://x.com/bcherny/status/2074997570317779038",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "features": [
+        {
+          "name": "CC In-App Browser",
+          "icon": "🌐",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2075635283211772279",
+          "category": "desktop"
         }
       ]
     }
