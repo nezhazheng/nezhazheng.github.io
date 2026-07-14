@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-13T08:29:22.687Z"
+    "lastUpdated": "2026-07-14T12:40:47.912Z"
   },
   "releases": [
     {
@@ -1518,6 +1518,37 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2075585386441789605",
           "category": "other"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "features": [
+        {
+          "name": "ChatGPT Messaging Apps",
+          "icon": "💬",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2076654365121855835",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Codex Command Palette Import",
+          "icon": "📥",
+          "announcer": "jxnlco",
+          "tweetUrl": "https://x.com/jxnlco/status/2076685755888574519",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "features": [
+        {
+          "name": "GPT-5.6 on Bedrock",
+          "icon": "☁️",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2076878421314195745",
+          "category": "api"
         }
       ]
     }

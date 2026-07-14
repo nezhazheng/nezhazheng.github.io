@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-13T08:26:44.663Z"
+    "lastUpdated": "2026-07-14T12:39:24.167Z"
   },
   "releases": [
     {
@@ -1551,6 +1551,32 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2075635283211772279",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "features": [
+        {
+          "name": "CC Public Artifacts",
+          "icon": "🌐",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2076789350642368563",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Multiplayer Artifacts",
+          "icon": "👥",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2076789351745458624",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Tag Internal Artifacts",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2076789352869613872",
+          "category": "claude-ai"
         }
       ]
     }
