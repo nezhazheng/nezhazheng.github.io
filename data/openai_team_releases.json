@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-14T12:40:47.912Z"
+    "lastUpdated": "2026-07-15T20:18:16.849Z"
   },
   "releases": [
     {
@@ -1549,6 +1549,25 @@
           "announcer": "gdb",
           "tweetUrl": "https://x.com/gdb/status/2076878421314195745",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "features": [
+        {
+          "name": "GPT-Red",
+          "icon": "🛡️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2077446718728425686",
+          "category": "other"
+        },
+        {
+          "name": "kbd-1.0-codex-micro",
+          "icon": "⌨️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2077425991790870644",
+          "category": "other"
         }
       ]
     }
