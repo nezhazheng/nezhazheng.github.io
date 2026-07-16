@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-15T20:18:16.849Z"
+    "lastUpdated": "2026-07-16T00:26:13.922Z"
   },
   "releases": [
     {
@@ -1568,6 +1568,13 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2077425991790870644",
           "category": "other"
+        },
+        {
+          "name": "GPT-Live Improved Intelligence",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2077501603050033634",
+          "category": "chatgpt"
         }
       ]
     }

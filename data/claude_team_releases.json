@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-14T12:39:24.167Z"
+    "lastUpdated": "2026-07-16T00:20:50.029Z"
   },
   "releases": [
     {
@@ -1577,6 +1577,18 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2076789352869613872",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "features": [
+        {
+          "name": "CC Artifacts MCP Connectors",
+          "icon": "🔌",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2077489907350856038",
+          "category": "claude-code"
         }
       ]
     }
