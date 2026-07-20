@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-16T00:20:50.029Z"
+    "lastUpdated": "2026-07-20T08:32:11.525Z"
   },
   "releases": [
     {
@@ -1589,6 +1589,30 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2077489907350856038",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "features": [
+        {
+          "name": "CC /code-review Effort Levels",
+          "icon": "🔍",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2077840057130692886",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "features": [
+        {
+          "name": "Fable 5 Max/Team Access",
+          "icon": "🧠",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2078302415804379218",
+          "category": "api"
         }
       ]
     }

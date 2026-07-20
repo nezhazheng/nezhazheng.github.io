@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-16T00:26:13.922Z"
+    "lastUpdated": "2026-07-20T08:35:09.957Z"
   },
   "releases": [
     {
@@ -1575,6 +1575,37 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2077501603050033634",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "features": [
+        {
+          "name": "ChatGPT Custom Instructions 5K",
+          "icon": "📝",
+          "announcer": "ChatGPTapp",
+          "tweetUrl": "https://x.com/ChatGPTapp/status/2077801782554861732",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Codex PR Chat + Edits",
+          "icon": "💬",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2077902662973190570",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "features": [
+        {
+          "name": "ChatGPT Desktop Sidebar Sync",
+          "icon": "🖥️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2077928427936710901",
+          "category": "desktop"
         }
       ]
     }
