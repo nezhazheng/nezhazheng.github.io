@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-20T08:32:11.525Z"
+    "lastUpdated": "2026-07-21T00:16:18.189Z"
   },
   "releases": [
     {
@@ -1613,6 +1613,25 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2078302415804379218",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "features": [
+        {
+          "name": "CC Screen Reader Mode",
+          "icon": "♿",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2079315549163778366",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Team 2-Seat Plans",
+          "icon": "👥",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2079299754056614289",
+          "category": "claude-ai"
         }
       ]
     }

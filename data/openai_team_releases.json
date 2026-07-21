@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-20T08:35:09.957Z"
+    "lastUpdated": "2026-07-21T00:17:13.446Z"
   },
   "releases": [
     {
@@ -1606,6 +1606,18 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2077928427936710901",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "features": [
+        {
+          "name": "Sites UK/EU Availability",
+          "icon": "🌍",
+          "announcer": "jxnlco",
+          "tweetUrl": "https://x.com/jxnlco/status/2079333018443927811",
+          "category": "codex"
         }
       ]
     }
