@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-22T00:17:49.936Z"
+    "lastUpdated": "2026-07-22T20:20:38.490Z"
   },
   "releases": [
     {
@@ -1651,6 +1651,18 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2079674432038248611",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "features": [
+        {
+          "name": "Economic Index Connector",
+          "icon": "📊",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2079979809606664564",
+          "category": "claude-ai"
         }
       ]
     }
