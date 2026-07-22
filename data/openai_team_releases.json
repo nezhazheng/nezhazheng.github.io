@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-22T00:19:27.711Z"
+    "lastUpdated": "2026-07-22T16:24:15.419Z"
   },
   "releases": [
     {
@@ -1637,6 +1637,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2079595537658151209",
           "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "features": [
+        {
+          "name": "OpenAI Presence",
+          "icon": "🤖",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2079916436232036614",
+          "category": "other"
         }
       ]
     }
