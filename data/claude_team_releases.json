@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-21T00:16:18.189Z"
+    "lastUpdated": "2026-07-22T00:17:49.936Z"
   },
   "releases": [
     {
@@ -1632,6 +1632,25 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2079299754056614289",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "features": [
+        {
+          "name": "Claude Cowork Skill Recording",
+          "icon": "🧩",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2079595988998554047",
+          "category": "desktop"
+        },
+        {
+          "name": "CC iOS Simulator",
+          "icon": "📱",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2079674432038248611",
+          "category": "desktop"
         }
       ]
     }

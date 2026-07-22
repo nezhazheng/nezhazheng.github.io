@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-07-21T00:17:13.446Z"
+    "lastUpdated": "2026-07-22T00:19:27.711Z"
   },
   "releases": [
     {
@@ -1617,6 +1617,25 @@
           "icon": "🌍",
           "announcer": "jxnlco",
           "tweetUrl": "https://x.com/jxnlco/status/2079333018443927811",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "features": [
+        {
+          "name": "Codex Custom Review Rules",
+          "icon": "📋",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2079627776722981348",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Navigation Updates",
+          "icon": "🧭",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2079595537658151209",
           "category": "codex"
         }
       ]
