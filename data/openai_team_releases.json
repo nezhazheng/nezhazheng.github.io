@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-03T04:18:51.374Z"
+    "lastUpdated": "2026-08-04T08:37:17.818Z"
   },
   "releases": [
     {
@@ -1661,6 +1661,18 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2083288643310133716",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "features": [
+        {
+          "name": "GPT-Live Continuous Interaction",
+          "icon": "🎙️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2084378415818579975",
+          "category": "chatgpt"
         }
       ]
     }
