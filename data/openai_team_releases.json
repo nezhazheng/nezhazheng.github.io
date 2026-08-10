@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-04T08:37:17.818Z"
+    "lastUpdated": "2026-08-10T04:19:34.341Z"
   },
   "releases": [
     {
@@ -1673,6 +1673,53 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2084378415818579975",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "features": [
+        {
+          "name": "GPT-5.6 Luna Unlimited Chats",
+          "icon": "🌙",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2085434712429052386",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT GPT-5.6 Sol Upgrade",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2085434713821565297",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT Reasoning Slider",
+          "icon": "🎚️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2085434715675426889",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Free/Go Think Button",
+          "icon": "💭",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2085434717051240642",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Agent Plugins Standard",
+          "icon": "🔌",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2085398373511918022",
+          "category": "codex"
+        },
+        {
+          "name": "Codex Security Review",
+          "icon": "🔒",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2085482310636560830",
+          "category": "codex"
         }
       ]
     }

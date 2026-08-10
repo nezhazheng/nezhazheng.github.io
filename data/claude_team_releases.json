@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-07-22T20:20:38.490Z"
+    "lastUpdated": "2026-08-10T04:17:41.568Z"
   },
   "releases": [
     {
@@ -1663,6 +1663,72 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2079979809606664564",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "features": [
+        {
+          "name": "Claude Tag Chime Tuning",
+          "icon": "🏷️",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2085488359502409799",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "features": [
+        {
+          "name": "Fable 5 Biology Safeguards",
+          "icon": "🧬",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2085563808773189680",
+          "category": "api"
+        },
+        {
+          "name": "CC Auto Mode Default",
+          "icon": "🛡️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085794862608318627",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Cross-Session Messaging",
+          "icon": "💬",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085817074816070014",
+          "category": "claude-code"
+        },
+        {
+          "name": "Managed Agent Session Budgets",
+          "icon": "💰",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085853169930957158",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agent Inference Geo",
+          "icon": "🌍",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085853171294101699",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agent Repo Skills",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085853173101797565",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agent Advisors",
+          "icon": "🧠",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2085853174364348495",
+          "category": "api"
         }
       ]
     }
