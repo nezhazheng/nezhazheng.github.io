@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-10T04:19:34.341Z"
+    "lastUpdated": "2026-08-17T08:21:29.174Z"
   },
   "releases": [
     {
@@ -1719,6 +1719,68 @@
           "icon": "🔒",
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2085482310636560830",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "features": [
+        {
+          "name": "GPT-5.6 Sol Ultrafast",
+          "icon": "⚡",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2087947721936359705",
+          "category": "api"
+        },
+        {
+          "name": "ChatGPT Computer History",
+          "icon": "🖥️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2087996496088297746",
+          "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "features": [
+        {
+          "name": "ChatGPT Google Workspace Editing",
+          "icon": "📄",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2088103609477238858",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "features": [
+        {
+          "name": "ChatGPT Reservation Search",
+          "icon": "🍽️",
+          "announcer": "gdb",
+          "tweetUrl": "https://x.com/gdb/status/2088489438297133066",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Sol Delegates to Luna",
+          "icon": "🌙",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2088687228826652999",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "features": [
+        {
+          "name": "Codex 1M Context for ChatGPT Accounts",
+          "icon": "📏",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2089143488696705077",
           "category": "codex"
         }
       ]
