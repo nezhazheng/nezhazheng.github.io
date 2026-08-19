@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-08-18T00:45:55.261Z"
+    "lastUpdated": "2026-08-19T08:19:47.967Z"
   },
   "releases": [
     {
@@ -1772,6 +1772,25 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2089471692762673408",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "features": [
+        {
+          "name": "Gmail and Drive Actions",
+          "icon": "🔌",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2089806039088517356",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Desktop 2x Faster Startup",
+          "icon": "⚡",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2089860955266228548",
+          "category": "desktop"
         }
       ]
     }

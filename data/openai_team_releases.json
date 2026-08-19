@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-17T08:21:29.174Z"
+    "lastUpdated": "2026-08-19T08:22:13.456Z"
   },
   "releases": [
     {
@@ -1781,6 +1781,18 @@
           "icon": "📏",
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2089143488696705077",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "features": [
+        {
+          "name": "Codex Safety Protections",
+          "icon": "🛡️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2089891927659585918",
           "category": "codex"
         }
       ]
