@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-19T08:22:13.456Z"
+    "lastUpdated": "2026-08-20T04:20:07.047Z"
   },
   "releases": [
     {
@@ -1793,6 +1793,25 @@
           "icon": "🛡️",
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2089891927659585918",
+          "category": "codex"
+        },
+        {
+          "name": "Private Safety Processing",
+          "icon": "🔒",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2090165328290701800",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "features": [
+        {
+          "name": "Codex Open-Source Harness",
+          "icon": "🧰",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090230646497251387",
           "category": "codex"
         }
       ]

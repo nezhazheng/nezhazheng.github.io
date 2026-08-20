@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-08-19T08:19:47.967Z"
+    "lastUpdated": "2026-08-20T04:18:23.972Z"
   },
   "releases": [
     {
@@ -1791,6 +1791,44 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2089860955266228548",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "features": [
+        {
+          "name": "Managed Agent Sandbox Memory",
+          "icon": "🧠",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090218983962390950",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agent Domain Controls",
+          "icon": "🌐",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090218985577148497",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agent Console Viewer",
+          "icon": "🖥️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090218987636568245",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "features": [
+        {
+          "name": "CC Concise Output Style",
+          "icon": "✂️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090245922685063634",
+          "category": "claude-code"
         }
       ]
     }
