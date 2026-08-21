@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-20T04:20:07.047Z"
+    "lastUpdated": "2026-08-21T04:28:47.865Z"
   },
   "releases": [
     {
@@ -1813,6 +1813,55 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2090230646497251387",
           "category": "codex"
+        },
+        {
+          "name": "Computer History EEA Expansion",
+          "icon": "🖥️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2090488285198250017",
+          "category": "desktop"
+        },
+        {
+          "name": "Shared Codex Threads",
+          "icon": "🔗",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090555241343418814",
+          "category": "codex"
+        },
+        {
+          "name": "GPT-Image-2 Transparent Backgrounds",
+          "icon": "🖼️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090536933571330440",
+          "category": "api"
+        },
+        {
+          "name": "ChatGPT Sites Editors",
+          "icon": "👥",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090515079058108745",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT Sites Custom URLs",
+          "icon": "🌐",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090515108959305893",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Exa Plugin",
+          "icon": "🔎",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090480484107141493",
+          "category": "codex"
+        },
+        {
+          "name": "ChatGPT iMessage Actions",
+          "icon": "💬",
+          "announcer": "romainhuet",
+          "tweetUrl": "https://x.com/romainhuet/status/2090587684272021760",
+          "category": "desktop"
         }
       ]
     }

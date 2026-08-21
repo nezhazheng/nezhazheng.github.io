@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-08-20T04:18:23.972Z"
+    "lastUpdated": "2026-08-21T04:22:51.912Z"
   },
   "releases": [
     {
@@ -1829,6 +1829,62 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2090245922685063634",
           "category": "claude-code"
+        },
+        {
+          "name": "Claude Academy",
+          "icon": "🎓",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2090518650251804742",
+          "category": "other"
+        },
+        {
+          "name": "Fable Enterprise Safeguards",
+          "icon": "🛡️",
+          "announcer": "trq212",
+          "tweetUrl": "https://x.com/trq212/status/2090569474139439335",
+          "category": "api"
+        },
+        {
+          "name": "Claude Platform Tools GA",
+          "icon": "🚀",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090540270219567575",
+          "category": "api"
+        },
+        {
+          "name": "Computer Toolset 20260801",
+          "icon": "🖱️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090540271557546261",
+          "category": "api"
+        },
+        {
+          "name": "Browser Toolset 20260801",
+          "icon": "🌐",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090540272690057481",
+          "category": "api"
+        },
+        {
+          "name": "Skills API",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090540273939996958",
+          "category": "api"
+        },
+        {
+          "name": "Files API Updates",
+          "icon": "📁",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090540275357606263",
+          "category": "api"
+        },
+        {
+          "name": "Managed Agents AG-UI Adapter",
+          "icon": "🔌",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090511583814492661",
+          "category": "api"
         }
       ]
     }
