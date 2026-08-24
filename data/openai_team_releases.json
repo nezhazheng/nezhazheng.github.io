@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-21T04:28:47.865Z"
+    "lastUpdated": "2026-08-24T04:26:00.929Z"
   },
   "releases": [
     {
@@ -1862,6 +1862,18 @@
           "announcer": "romainhuet",
           "tweetUrl": "https://x.com/romainhuet/status/2090587684272021760",
           "category": "desktop"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "features": [
+        {
+          "name": "API Spend Controls",
+          "icon": "📊",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2090903221636338057",
+          "category": "api"
         }
       ]
     }

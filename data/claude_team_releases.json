@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-08-21T04:22:51.912Z"
+    "lastUpdated": "2026-08-24T04:22:14.387Z"
   },
   "releases": [
     {
@@ -1885,6 +1885,25 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2090511583814492661",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "features": [
+        {
+          "name": "Claude Security Mythos 5",
+          "icon": "🛡️",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2090852314319880425",
+          "category": "other"
+        },
+        {
+          "name": "CC Remote Control Updates",
+          "icon": "📱",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2090933155847143498",
+          "category": "claude-code"
         }
       ]
     }
