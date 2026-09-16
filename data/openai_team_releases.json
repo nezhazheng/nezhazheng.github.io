@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-08-24T04:26:00.929Z"
+    "lastUpdated": "2026-09-16T04:20:28.234Z"
   },
   "releases": [
     {
@@ -1874,6 +1874,37 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2090903221636338057",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "features": [
+        {
+          "name": "GPT-6 Astra",
+          "icon": "🧠",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2095973658867171733",
+          "category": "api"
+        },
+        {
+          "name": "GPT-6 Astra Plus Rollout",
+          "icon": "🚀",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2096002992046796932",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "features": [
+        {
+          "name": "ChatGPT Images 2.5",
+          "icon": "🖼️",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2097410967978324010",
+          "category": "chatgpt"
         }
       ]
     }
