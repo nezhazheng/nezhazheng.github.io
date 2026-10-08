@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-08T08:29:43.452Z"
+    "lastUpdated": "2026-10-08T12:27:05.004Z"
   },
   "releases": [
     {
@@ -1938,6 +1938,34 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2104995014208258235",
           "category": "chatgpt"
+        },
+        {
+          "name": "Agents API Preview",
+          "icon": "🧰",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2104987594719461796",
+          "category": "api"
+        },
+        {
+          "name": "Sign in with ChatGPT Partners",
+          "icon": "🤝",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2105006253986738615",
+          "category": "chatgpt"
+        },
+        {
+          "name": "MCP Events Automations",
+          "icon": "🔔",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2105073680829366411",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Figma in Codex",
+          "icon": "🎨",
+          "announcer": "npew",
+          "tweetUrl": "https://x.com/npew/status/2105082574498681143",
+          "category": "codex"
         }
       ]
     },
@@ -1957,6 +1985,25 @@
           "announcer": "embirico",
           "tweetUrl": "https://x.com/embirico/status/2105124830484033915",
           "category": "codex"
+        },
+        {
+          "name": "ChatGPT Shareable Profiles",
+          "icon": "👤",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2105365703654310113",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "features": [
+        {
+          "name": "ChatGPT MCP Server Builder",
+          "icon": "🛠️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+          "category": "chatgpt"
         }
       ]
     },
@@ -1969,6 +2016,20 @@
           "announcer": "OpenAI",
           "tweetUrl": "https://x.com/OpenAI/status/2107164650249101695",
           "category": "api"
+        },
+        {
+          "name": "GPT-6 Speed Upgrade",
+          "icon": "⚡",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2107158998495748264",
+          "category": "api"
+        },
+        {
+          "name": "Codex CLI Voice Tasks",
+          "icon": "🎙️",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2107242397361139938",
+          "category": "codex"
         }
       ]
     },

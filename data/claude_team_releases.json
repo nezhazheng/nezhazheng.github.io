@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-10-08T08:24:37.162Z"
+    "lastUpdated": "2026-10-08T12:19:41.919Z"
   },
   "releases": [
     {
@@ -1928,6 +1928,27 @@
           "announcer": "lydiahallie",
           "tweetUrl": "https://x.com/lydiahallie/status/2103617988918485226",
           "category": "claude-code"
+        },
+        {
+          "name": "CC Task Cost Calculator",
+          "icon": "💰",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "category": "claude-code"
+        },
+        {
+          "name": "CC Graceful Limit Wrap-Up",
+          "icon": "🚦",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
+          "category": "claude-code"
+        },
+        {
+          "name": "Plugin Developer Portal",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2103577007938228300",
+          "category": "other"
         }
       ]
     },
@@ -1939,6 +1960,13 @@
           "icon": "🧠",
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2104633115620823187",
+          "category": "api"
+        },
+        {
+          "name": "Preserved Thinking Isolation",
+          "icon": "🛡️",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2104641322137293209",
           "category": "api"
         }
       ]
