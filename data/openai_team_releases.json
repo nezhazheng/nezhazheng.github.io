@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-09-16T04:20:28.234Z"
+    "lastUpdated": "2026-10-08T08:29:43.452Z"
   },
   "releases": [
     {
@@ -1905,6 +1905,143 @@
           "announcer": "sama",
           "tweetUrl": "https://x.com/sama/status/2097410967978324010",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "features": [
+        {
+          "name": "Codex Security Cloud",
+          "icon": "🛡️",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2104987422308335828",
+          "category": "codex"
+        },
+        {
+          "name": "Ultrafast Speed Tier",
+          "icon": "⚡",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2104993966043320759",
+          "category": "api"
+        },
+        {
+          "name": "GPT-6.1 Sol",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2104993969486930015",
+          "category": "api"
+        },
+        {
+          "name": "Dots",
+          "icon": "🤖",
+          "announcer": "sama",
+          "tweetUrl": "https://x.com/sama/status/2104995014208258235",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "features": [
+        {
+          "name": "OpenAI Space",
+          "icon": "🗂️",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2105100531983356269",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Codex Cloud 2.0",
+          "icon": "☁️",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2105124830484033915",
+          "category": "codex"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "features": [
+        {
+          "name": "API Text Watermarking",
+          "icon": "🔎",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2107164650249101695",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "features": [
+        {
+          "name": "Codex Auto-Review Availability",
+          "icon": "🛡️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2107368734981517634",
+          "category": "codex"
+        },
+        {
+          "name": "Simplified API",
+          "icon": "🧰",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2107548725359104441",
+          "category": "api"
+        },
+        {
+          "name": "Decisions API",
+          "icon": "🧭",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2107574912349303197",
+          "category": "api"
+        },
+        {
+          "name": "Meetings Plugin",
+          "icon": "📝",
+          "announcer": "embirico",
+          "tweetUrl": "https://x.com/embirico/status/2107588722539823342",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "features": [
+        {
+          "name": "GPT-6 for ChatGPT",
+          "icon": "🧠",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2107895006350791071",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT Intelligent UI",
+          "icon": "🧩",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2107894999119774148",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT for Teens",
+          "icon": "🎓",
+          "announcer": "OpenAI",
+          "tweetUrl": "https://x.com/OpenAI/status/2107909792945832070",
+          "category": "chatgpt"
+        },
+        {
+          "name": "ChatGPT Plugin Extensions",
+          "icon": "🧩",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2107927072165548276",
+          "category": "chatgpt"
+        },
+        {
+          "name": "Plugin Submission Flow",
+          "icon": "🚢",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2107927102100271559",
+          "category": "other"
         }
       ]
     }

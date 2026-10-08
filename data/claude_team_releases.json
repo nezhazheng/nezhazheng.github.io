@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-08-24T04:22:14.387Z"
+    "lastUpdated": "2026-10-08T08:24:37.162Z"
   },
   "releases": [
     {
@@ -1904,6 +1904,130 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2090933155847143498",
           "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "features": [
+        {
+          "name": "Claude Tag Personal Connectors",
+          "icon": "🔌",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2103223133843145035",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "features": [
+        {
+          "name": "CC /checkup Prompt Audit",
+          "icon": "🔍",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2103617988918485226",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "features": [
+        {
+          "name": "Claude Sonnet 5.5",
+          "icon": "🧠",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2104633115620823187",
+          "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "features": [
+        {
+          "name": "Claude.dev Developer Hub",
+          "icon": "🧭",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2105391694741119047",
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "features": [
+        {
+          "name": "CC Mods",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "category": "claude-code"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "features": [
+        {
+          "name": "CC Desktop Tool Organization",
+          "icon": "🧰",
+          "announcer": "amorriscode",
+          "tweetUrl": "https://x.com/amorriscode/status/2105831586843533783",
+          "category": "desktop"
+        },
+        {
+          "name": "CC You Should Know",
+          "icon": "👀",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2106118517447876618",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Tag Group DMs",
+          "icon": "💬",
+          "announcer": "noahzweben",
+          "tweetUrl": "https://x.com/noahzweben/status/2106124987375771879",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "features": [
+        {
+          "name": "Claude in Google Workspace",
+          "icon": "📄",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2107522596845822135",
+          "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "features": [
+        {
+          "name": "CC Subagent Effort Levels",
+          "icon": "⚙️",
+          "announcer": "lydiahallie",
+          "tweetUrl": "https://x.com/lydiahallie/status/2107625236430798909",
+          "category": "claude-code"
+        },
+        {
+          "name": "Claude Haiku 5.5",
+          "icon": "⚡",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2107894039626277339",
+          "category": "api"
+        },
+        {
+          "name": "SDK Computer/Browser Toolsets",
+          "icon": "🧰",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2107925762720326090",
+          "category": "api"
         }
       ]
     }
