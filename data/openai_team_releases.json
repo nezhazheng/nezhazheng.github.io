@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-09T00:21:00.435Z"
+    "lastUpdated": "2026-10-09T16:21:28.512Z"
   },
   "releases": [
     {
@@ -2122,6 +2122,18 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2108275041276420573",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "features": [
+        {
+          "name": "Codex Windows Sandbox",
+          "icon": "🪟",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2108573188703781190",
+          "category": "codex"
         }
       ]
     }
