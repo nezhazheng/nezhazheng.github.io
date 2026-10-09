@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-10-09T00:18:28.115Z"
+    "lastUpdated": "2026-10-09T20:18:06.543Z"
   },
   "releases": [
     {
@@ -2075,6 +2075,18 @@
           "announcer": "claudeai",
           "tweetUrl": "https://x.com/claudeai/status/2108271559928389679",
           "category": "claude-ai"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "features": [
+        {
+          "name": "Managed Agents Dynamic Workflows",
+          "icon": "🧩",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2108591328732856655",
+          "category": "api"
         }
       ]
     }
