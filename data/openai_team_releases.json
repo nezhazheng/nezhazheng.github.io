@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-08T12:27:05.004Z"
+    "lastUpdated": "2026-10-09T00:21:00.435Z"
   },
   "releases": [
     {
@@ -2103,6 +2103,25 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2107927102100271559",
           "category": "other"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "features": [
+        {
+          "name": "GPT-6.1 Sol Ultrafast",
+          "icon": "⚡",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2108262812489531498",
+          "category": "api"
+        },
+        {
+          "name": "Instant Model Steering",
+          "icon": "🎛️",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2108275041276420573",
+          "category": "api"
         }
       ]
     }

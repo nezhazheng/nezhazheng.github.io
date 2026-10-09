@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-10-08T12:19:41.919Z"
+    "lastUpdated": "2026-10-09T00:18:28.115Z"
   },
   "releases": [
     {
@@ -2056,6 +2056,25 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2107925762720326090",
           "category": "api"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "features": [
+        {
+          "name": "Claude Dashboards and Motion",
+          "icon": "📊",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2108271552991252810",
+          "category": "claude-ai"
+        },
+        {
+          "name": "Claude Docs/Slides/Design GA",
+          "icon": "📝",
+          "announcer": "claudeai",
+          "tweetUrl": "https://x.com/claudeai/status/2108271559928389679",
+          "category": "claude-ai"
         }
       ]
     }
