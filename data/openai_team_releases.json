@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-10T00:37:57.443Z"
+    "lastUpdated": "2026-10-10T08:28:13.475Z"
   },
   "releases": [
     {
@@ -2147,6 +2147,18 @@
           "icon": "📱",
           "announcer": "dkundel",
           "tweetUrl": "https://x.com/dkundel/status/2108638806585061774",
+          "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "features": [
+        {
+          "name": "Devin Subscription Included",
+          "icon": "🤝",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2108777962053292398",
           "category": "chatgpt"
         }
       ]
