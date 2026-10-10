@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-03",
-    "lastUpdated": "2026-10-09T20:18:06.543Z"
+    "lastUpdated": "2026-10-10T00:18:22.918Z"
   },
   "releases": [
     {
@@ -2087,6 +2087,13 @@
           "announcer": "ClaudeDevs",
           "tweetUrl": "https://x.com/ClaudeDevs/status/2108591328732856655",
           "category": "api"
+        },
+        {
+          "name": "CC Projects Pro/Max Access",
+          "icon": "📁",
+          "announcer": "ClaudeDevs",
+          "tweetUrl": "https://x.com/ClaudeDevs/status/2108621476538781878",
+          "category": "claude-code"
         }
       ]
     }

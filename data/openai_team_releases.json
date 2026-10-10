@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-09T20:21:45.029Z"
+    "lastUpdated": "2026-10-10T00:37:57.443Z"
   },
   "releases": [
     {
@@ -2141,6 +2141,13 @@
           "announcer": "OpenAIDevs",
           "tweetUrl": "https://x.com/OpenAIDevs/status/2108624138369929725",
           "category": "codex"
+        },
+        {
+          "name": "Dots Mobile Creation",
+          "icon": "📱",
+          "announcer": "dkundel",
+          "tweetUrl": "https://x.com/dkundel/status/2108638806585061774",
+          "category": "chatgpt"
         }
       ]
     }
