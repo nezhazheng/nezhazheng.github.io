@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-10T08:28:13.475Z"
+    "lastUpdated": "2026-10-10T20:45:55.677Z"
   },
   "releases": [
     {
@@ -1965,6 +1965,13 @@
           "icon": "🎨",
           "announcer": "npew",
           "tweetUrl": "https://x.com/npew/status/2105082574498681143",
+          "category": "codex"
+        },
+        {
+          "name": "Codex CLI Refresh",
+          "icon": "💻",
+          "announcer": "OpenAIDevs",
+          "tweetUrl": "https://x.com/OpenAIDevs/status/2104999323385929777",
           "category": "codex"
         }
       ]
