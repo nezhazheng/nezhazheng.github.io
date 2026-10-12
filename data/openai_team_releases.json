@@ -1,7 +1,7 @@
 {
   "meta": {
     "startDate": "2026-02-02",
-    "lastUpdated": "2026-10-11T00:21:39.103Z"
+    "lastUpdated": "2026-10-12T04:18:57.718Z"
   },
   "releases": [
     {
@@ -2174,6 +2174,18 @@
           "announcer": "thsottiaux",
           "tweetUrl": "https://x.com/thsottiaux/status/2108777962053292398",
           "category": "chatgpt"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "features": [
+        {
+          "name": "GPT-6.1 Sol 500k Context",
+          "icon": "📚",
+          "announcer": "thsottiaux",
+          "tweetUrl": "https://x.com/thsottiaux/status/2109430343346581527",
+          "category": "codex"
         }
       ]
     }
